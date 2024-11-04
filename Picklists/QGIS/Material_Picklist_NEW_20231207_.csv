@@ -1,40 +1,41 @@
-Aluminium ,Aluminium 
-Bagwork,Bagwork
-Complex,Complex
-Concrete,Concrete
-Earth,Earth
-Faggoting,Faggoting
-Ferrous Metal Other,Ferrous Metal Other
-Ferrous Metal Corrugated/Armco,Ferrous Metal Corrugated/Armco
-Ferrous Metal Galvanised,Ferrous Metal Galvanised
-Ferrous Metal Wire Mesh,Ferrous Metal Wire Mesh
-Gabions,Gabions
-Geogrids,Geogrids
-Geotextile Fabric,Geotextile Fabric
-Glass,Glass
-Granular Material Clay,Granular Material Clay
-Granular Material Cobbles,Granular Material Cobbles
-Granular Material Gravel,Granular Material Gravel
-Granular Material Mixed Grade,Granular Material Mixed Grade
-Masonry/Brick/Block,Masonry/Brick/Block
-Non-ferrous Metal Copper,Non-ferrous Metal Copper
-Non-ferrous Metal Lead,Non-ferrous Metal Lead
-Non-ferrous Metal Other,Non-ferrous Metal Other
-Other,Other
-Perspex Acrylic,Perspex Acrylic
-Plastic,Plastic
-Plastic GRP,Plastic GRP
-Rock,Rock
-Rock Armour,Rock Armour
-Rubber,Rubber
-Sand,Sand
-Shingle,Shingle
-Silt,Silt
-Spiling,Spiling
-Steel,Steel
-Tarmac,Tarmac
-Timber,Timber
-Timber Hardwood,Timber Hardwood
-Timber Softwood,Timber Softwood
-Turf,Turf
-Unknown,Unknown
+Material_Type	Material_Description
+Aluminium 	Aluminium 
+Bagwork	Bagwork
+Complex	Complex
+Concrete	Concrete
+Earth	Earth
+Faggoting	Faggoting
+Ferrous Metal Other	Ferrous Metal Other
+Ferrous Metal Corrugated/Armco	Ferrous Metal Corrugated/Armco
+Ferrous Metal Galvanised	Ferrous Metal Galvanised
+Ferrous Metal Wire Mesh	Ferrous Metal Wire Mesh
+Gabions	Gabions
+Geogrids	Geogrids
+Geotextile Fabric	Geotextile Fabric
+Glass	Glass
+Granular Material Clay	Granular Material Clay
+Granular Material Cobbles	Granular Material Cobbles
+Granular Material Gravel	Granular Material Gravel
+Granular Material Mixed Grade	Granular Material Mixed Grade
+Masonry/Brick/Block	Masonry/Brick/Block
+Non-ferrous Metal Copper	Non-ferrous Metal Copper
+Non-ferrous Metal Lead	Non-ferrous Metal Lead
+Non-ferrous Metal Other	Non-ferrous Metal Other
+Other	Other
+Perspex Acrylic	Perspex Acrylic
+Plastic	Plastic
+Plastic GRP	Plastic GRP
+Rock	Rock
+Rock Armour	Rock Armour
+Rubber	Rubber
+Sand	Sand
+Shingle	Shingle
+Silt	Silt
+Spiling	Spiling
+Steel	Steel
+Tarmac	Tarmac
+Timber	Timber
+Timber Hardwood	Timber Hardwood
+Timber Softwood	Timber Softwood
+Turf	Turf
+Unknown	Unknown
