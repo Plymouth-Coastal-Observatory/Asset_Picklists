@@ -1,0 +1,23 @@
+Element Query, note sort array will put Null value at position [0]. 
+
+"Asset_Sub_Type" =array_sort(array((to_string(aggregate(
+    layer:=	'pco_assets_79afbdad_a488_4c94_a7a8_8d5c7be3e03e', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_sub_type", -- set the field
+    filter:=is_selected(
+'pco_assets_79afbdad_a488_4c94_a7a8_8d5c7be3e03e',
+        $currentfeature
+    )
+)[0])
+),
+(to_string(aggregate(
+    layer:=	'pco_assets_43514746_d84d_4cc8_a9f2_9bbe59d30b86', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_sub_type", -- set the field
+    filter:=is_selected(
+'pco_assets_43514746_d84d_4cc8_a9f2_9bbe59d30b86',
+        $currentfeature
+    )
+)[0])
+)
+))[-1]

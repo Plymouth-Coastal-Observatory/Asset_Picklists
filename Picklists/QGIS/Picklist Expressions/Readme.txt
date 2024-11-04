@@ -1,0 +1,1 @@
+In the Expressions.txt is the code used for the expressions in the QGIS progects. These control the logic that the picklists use to autopopulate fields. 

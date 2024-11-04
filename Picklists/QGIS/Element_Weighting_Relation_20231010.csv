@@ -1,0 +1,3264 @@
+Concat_Subtype_Element_Type,Weightings,Varient_Commment
+Amenity Building_Access Strip,9,NULL
+Amenity Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Amenity Building_Alternator,NULL,NULL
+Amenity Building_Balustrade,4,NULL
+Amenity Building_Balustrade,7,If failure of the elementwould lead to increasedrisk of falls from height.
+Amenity Building_Beams,8,NULL
+Amenity Building_Beams,9,If element deemed tobe load bearing
+Amenity Building_Cable and Pipe Management,4,NULL
+Amenity Building_Cable and Pipe Management,7,If hazardous materialbeing conveyed.
+Amenity Building_Ceiling,4,NULL
+Amenity Building_Climate Control,NULL,NULL
+Amenity Building_Distribution Board,NULL,NULL
+Amenity Building_Distribution Network Operator Feeder,NULL,NULL
+Amenity Building_Doors and Windows,6,NULL
+Amenity Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Amenity Building_Drainage System,5,NULL
+Amenity Building_Drainage System,9,if failure could not bemitigated and would
+Amenity Building_Electrical System,NULL,NULL
+Amenity Building_Electricity Meter,NULL,NULL
+Amenity Building_Electricity Sub Meter,NULL,NULL
+Amenity Building_Equipment Mounting Board,3,NULL
+Amenity Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Amenity Building_External Features,4,NULL
+Amenity Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Amenity Building_External Walls,8,NULL
+Amenity Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Amenity Building_Fastenings,7,NULL
+Amenity Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Amenity Building_Fire Protection,NULL,NULL
+Amenity Building_Fixed Fall Arrest System,NULL,NULL
+Amenity Building_Fixings,3,NULL
+Amenity Building_Floor,8,NULL
+Amenity Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Amenity Building_Foundation,8,NULL
+Amenity Building_Foundation,9,if function /performance of theasset beingcompromised.
+Amenity Building_Frame,8,NULL
+Amenity Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Amenity Building_Fuel Cell,NULL,NULL
+Amenity Building_Gas System,NULL,NULL
+Amenity Building_Grassed Elements,1,NULL
+Amenity Building_Habitat Enhancement,1,NULL
+Amenity Building_Handrail,4,NULL
+Amenity Building_Handrail,7,If element required forsafe operation.
+Amenity Building_Heating System,NULL,NULL
+Amenity Building_Hydro Turbine,NULL,NULL
+Amenity Building_Incomer,NULL,NULL
+Amenity Building_Internal Features,1,NULL
+Amenity Building_Internal Walls,4,NULL
+Amenity Building_Internal Walls,9,If load bearing or criticalfor security.
+Amenity Building_Lighting,NULL,NULL
+Amenity Building_Maintenance Hole,3,NULL
+Amenity Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Amenity Building_Padlock or Lock,6,NULL
+Amenity Building_Padlock or Lock,9,if critical to theoperation of the asset
+Amenity Building_Planted Elements,1,NULL
+Amenity Building_Pump Out Point,5,NULL
+Amenity Building_Roller Shutters,6,NULL
+Amenity Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Amenity Building_Roof,8,NULL
+Amenity Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Amenity Building_Security Camera,1,NULL
+Amenity Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Amenity Building_Sewage Treatment System,NULL,NULL
+Amenity Building_Solar Panel,NULL,NULL
+Amenity Building_Substructure,8,NULL
+Amenity Building_Substructure,9,if function /performance of theasset beingcompromised.
+Amenity Building_Transformer,NULL,NULL
+Amenity Building_Treads and Risers,3,NULL
+Amenity Building_Treads and Risers,7,if required foroperational access.
+Amenity Building_Uninterruptible Power Supply,NULL,NULL
+Amenity Building_Ventilation System,NULL,NULL
+Amenity Building_Waste Disposal System,NULL,NULL
+Amenity Building_Water Point,NULL,NULL
+Amenity Building_Water Supply Plumbing System,9,NULL
+Automation Controls_Automation Interface,NULL,NULL
+Automation Controls_Distribution Board,NULL,NULL
+Automation Controls_Distribution Network Operator Feeder,NULL,NULL
+Automation Controls_Electrical System,NULL,NULL
+Automation Controls_Electricity Meter,NULL,NULL
+Automation Controls_Electricity Sub Meter,NULL,NULL
+Automation Controls_Human Machine Interface,NULL,NULL
+Automation Controls_Incomer,NULL,NULL
+Automation Controls_Network,NULL,NULL
+Automation Controls_Programmable Logic Computers,NULL,NULL
+Automation Controls_Relay Control,NULL,NULL
+Automation Controls_Router,NULL,NULL
+Automation Controls_SCADA,NULL,NULL
+Automation Controls_Server,NULL,NULL
+Automation Controls_Transformer,NULL,NULL
+Automation Controls_Uninterruptible Power Supply,NULL,NULL
+Barrier Beach_Berm,5,NULL
+Barrier Beach_Berm,7,If less than 5 metreswide.
+Barrier Beach_Crest,7,NULL
+Barrier Beach_Crest,9,If the Crest is less than5 metres wide.
+Barrier Beach_Exposed Face,7,NULL
+Barrier Beach_Exposed Face,9,"If steeper than 2:1, orAsset is extremelyexposed to waveaction."
+Barrier Beach_Landward Face,7,NULL
+Barrier Beach_Landward Face,9,If steeper than 2:1.
+Barrier Beach_Shore,5,NULL
+Barrier Beach_Shore,8,If asset is extremelyexposed.
+Beach_Berm,5,NULL
+Beach_Berm,7,If less than 5 metreswide.
+Beach_Crest,7,NULL
+Beach_Crest,9,If the Crest is less than5 metres wide.
+Beach_Shingle Bank,7,NULL
+Beach_Shingle Bank,9,Gradient is steeper than2:1 or extremelyexposed to wave action.
+Beach_Shore,5,NULL
+Beach_Shore,8,If asset is extremelyexposed.
+Beacon_Civils,4,NULL
+Beacon_Daymark,9,NULL
+Beacon_Electrical System,NULL,NULL
+Beacon_Equipment Housing,4,NULL
+Beacon_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Beacon_Fastenings,7,NULL
+Beacon_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Beacon_Foghorn,NULL,NULL
+Beacon_Navigation Light,3,NULL
+Beacon_Positional Indicator,NULL,NULL
+Beacon_Post,7,NULL
+Beacon_Post,9,If element is critical forasset function
+Beacon_Solar Panel,NULL,NULL
+Beacon_TopMark,3,NULL
+Beacon_Wind Turbine,NULL,NULL
+Boat Lift_Access Strip,9,NULL
+Boat Lift_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Boat Lift_Bearing Piling,6,NULL
+Boat Lift_Bearing Piling,8,If element is key tostructural stability orsafety.
+Boat Lift_Gantry,1,NULL
+Boat Lift_Gantry,5,If failure wouldcompromise operation.
+Boat Lift_Gearbox,NULL,NULL
+Boat Lift_Jib Crane,NULL,NULL
+Boat Lift_Ladder,3,NULL
+Boat Lift_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Boat Lift_Mooring Point,6,NULL
+Boat Lift_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Boat Lift_Motor,NULL,NULL
+Boat Lift_Piling,6,NULL
+Boat Lift_Piling,8,If element is key tostructural stability orsafety.
+Boat Lift_Security Barrier,3,NULL
+Boat Lift_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Boat Lift_Slope,6,NULL
+Boat Lift_Slope,9,If element critical tooverall asset function.
+Boat Lift_Stoplogs and Lasherboards,3,NULL
+Boat Lift_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activities.
+Boat Lift_Walkway,3,NULL
+Boathouse_Alternator,NULL,NULL
+Boathouse_Anchor and Chain,6,NULL
+Boathouse_Anchor and Chain,9,If sole restraint
+Boathouse_Ceiling,4,NULL
+Boathouse_Climate Control,NULL,NULL
+Boathouse_Distribution Board,NULL,NULL
+Boathouse_Distribution Network Operator Feeder,NULL,NULL
+Boathouse_Doors and Windows,6,NULL
+Boathouse_Doors and Windows,9,If element is critical foraccess/egress/security
+Boathouse_Drainage System,5,NULL
+Boathouse_Drainage System,9,"if failure could not bemitigated and wouldcause a H, S & W /pollution incident."
+Boathouse_Electrical System,NULL,NULL
+Boathouse_Electricity Meter,NULL,NULL
+Boathouse_Electricity Sub Meter,NULL,NULL
+Boathouse_External Features,4,NULL
+Boathouse_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Boathouse_Fire Protection,NULL,NULL
+Boathouse_Fixed Fall Arrest System,NULL,NULL
+Boathouse_Floats,7,NULL
+Boathouse_Floats,9,If asset is floating
+Boathouse_Floor,8,NULL
+Boathouse_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Boathouse_Foundation,9,NULL
+Boathouse_Frame,8,NULL
+Boathouse_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Boathouse_Fuel Cell,NULL,NULL
+Boathouse_Gas System,NULL,NULL
+Boathouse_Heating System,NULL,NULL
+Boathouse_Hydro Turbine,NULL,NULL
+Boathouse_Incomer,NULL,NULL
+Boathouse_Internal Features,1,NULL
+Boathouse_Lighting,NULL,NULL
+Boathouse_Roller Shutters,6,NULL
+Boathouse_Roller Shutters,9,If element is critical foraccess/egress/security
+Boathouse_Roof,8,NULL
+Boathouse_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Boathouse_Security Camera,1,NULL
+Boathouse_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Boathouse_Solar Panel,NULL,NULL
+Boathouse_Transformer,NULL,NULL
+Boathouse_Treads and Risers,3,NULL
+Boathouse_Treads and Risers,7,if required foroperational access.
+Boathouse_Uninterruptible Power Supply,NULL,NULL
+Boathouse_Ventilation System,NULL,NULL
+Boathouse_Waste Disposal System,NULL,NULL
+Boathouse_Water Supply Plumbing System,7,NULL
+Boathouse_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Boatroller_Access Strip,6,NULL
+Boatroller_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Boatroller_Bearing Piling,6,NULL
+Boatroller_Bearing Piling,8,If element is key tostructural stability orsafety.
+Boatroller_Foundation,9,NULL
+Boatroller_Frame,6,NULL
+Boatroller_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Boatroller_Gantry,1,NULL
+Boatroller_Gantry,5,If failure wouldcompromise operation.
+Boatroller_Ladder,3,NULL
+Boatroller_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Boatroller_Mooring Point,6,NULL
+Boatroller_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Boatroller_Piling,6,NULL
+Boatroller_Piling,8,If element is key tostructural stability orsafety.
+Boatroller_Retaining Wall,6,NULL
+Boatroller_Retaining Wall,9,if failure prevents theoperation of the asset
+Boatroller_Rollers,7,NULL
+Boatroller_Security Barrier,3,NULL
+Boatroller_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Boatroller_Slope,6,NULL
+Boatroller_Slope,9,If element critical tooverall asset function.
+Boatroller_Stoplogs and Lasherboards,3,NULL
+Boatroller_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Boatroller_Walkway,3,NULL
+Boatroller_Winch,NULL,NULL
+Borehole_Access Point,6,NULL
+Borehole_Access Point,3,If element is sole accessroute to asset andrequired formaintenance.
+Borehole_Access Strip,6,NULL
+Borehole_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Borehole_Borehole Cap,3,NULL
+Borehole_Borehole Cap,9,If element is critical tothe protection ofgroundwater
+Borehole_Cable and Pipe Management,4,NULL
+Borehole_Cable and Pipe Management,7,If pipes carry waterfrom borehole orcontrol or power cables
+Borehole_Camera,7,NULL
+Borehole_Camera,5,if able to monitor assetby alternative means.
+Borehole_Casing,5,NULL
+Borehole_Casing,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Borehole_Chamber,4,NULL
+Borehole_Chamber,9,If element is critical foroperation.
+Borehole_Climate Control,NULL,NULL
+Borehole_Common Controls,NULL,NULL
+Borehole_Cover or Hatch,1,NULL
+Borehole_Datum Plates and Markers,4,NULL
+Borehole_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Borehole_Distribution Board,NULL,NULL
+Borehole_Distribution Network Operator Feeder,NULL,NULL
+Borehole_Electrical System,NULL,NULL
+Borehole_Electricity Meter,NULL,NULL
+Borehole_Electricity Sub Meter,NULL,NULL
+Borehole_Equipment Housing,4,NULL
+Borehole_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Borehole_Expansion Joint,5,NULL
+Borehole_Expansion Joint,8,if failure could cause ajet of water to scour /
+Borehole_External Walls,6,NULL
+Borehole_External Walls,9,If element deemed tobe load bearing orrequired for security
+Borehole_Fastenings,7,NULL
+Borehole_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Borehole_Fixings,3,NULL
+Borehole_Floor,8,NULL
+Borehole_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Borehole_Foundation,9,NULL
+Borehole_Frame,8,NULL
+Borehole_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Borehole_Grassed Elements,1,NULL
+Borehole_Incomer,NULL,NULL
+Borehole_Ladder,3,NULL
+Borehole_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Borehole_Lifting Chains and Sprockets,NULL,NULL
+Borehole_Lighting,NULL,NULL
+Borehole_Maintenance Hole,3,NULL
+Borehole_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Borehole_Measurement Scale,7,NULL
+Borehole_Measurement Scale,9,If sole means ofmeasuring a value.
+Borehole_Padlock or Lock,6,NULL
+Borehole_Padlock or Lock,9,if critical to theoperation of the asset
+Borehole_Pipe,6,NULL
+Borehole_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Borehole_Pipe Flange,6,NULL
+Borehole_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Borehole_Pipe Sleeve,3,NULL
+Borehole_Pipe T Piece,6,NULL
+Borehole_Pipe T Piece,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Borehole_Pipe Valve,6,NULL
+Borehole_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Borehole_Pipework,6,NULL
+Borehole_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Borehole_Planted Elements,1,NULL
+Borehole_Relay Control,NULL,NULL
+Borehole_Seals,5,NULL
+Borehole_Seals,7,If element is critical forasset function
+Borehole_Security Camera,1,NULL
+Borehole_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element of
+Borehole_Sensor,7,NULL
+Borehole_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Borehole_Shaft,7,NULL
+Borehole_Solar Panel,NULL,NULL
+Borehole_Struts and Bracing,7,NULL
+Borehole_Substructure,8,NULL
+Borehole_Substructure,9,if function /performance of theasset beingcompromised.
+Borehole_Surge Arrester,NULL,NULL
+Borehole_Transformer,NULL,NULL
+Borehole_Treads and Risers,3,NULL
+Borehole_Treads and Risers,7,if required foroperational access.
+Borehole_Vertical Extended Spindle,NULL,NULL
+Borehole_Wind Turbine,NULL,NULL
+Breakwater_Bearing Piling,6,NULL
+Breakwater_Bearing Piling,9,If element is key tostructural stability orsafety.
+Breakwater_Bedding Layer,4,NULL
+Breakwater_Capping Beam,4,NULL
+Breakwater_Crest,7,NULL
+Breakwater_Crest,9,If asset is extremelyexposed.
+Breakwater_Exposed Face,7,NULL
+Breakwater_Exposed Face,9,If asset is extremelyexposed.
+Breakwater_Face Protection,7,NULL
+Breakwater_Fishtail,5,NULL
+Breakwater_Fishtail,7,If asset is extremelyexposed.
+Breakwater_Landward Face,7,NULL
+Breakwater_Landward Face,9,If Asset is extremelyexposed.
+Breakwater_Left Face,7,NULL
+Breakwater_Left Face,9,If asset is extremelyexposed.
+Breakwater_Mooring Point,6,NULL
+Breakwater_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Breakwater_Piling,6,NULL
+Breakwater_Piling,9,If element is key tostructural stability orsafety.
+Breakwater_Right Face,7,NULL
+Breakwater_Right Face,9,If asset is extremelyexposed.
+Breakwater_Roundhead,5,NULL
+Breakwater_Roundhead,7,If asset is extremelyexposed.
+Breakwater_Sheet Piling,8,NULL
+Breakwater_Sheet Piling,9,If element is used forholding back water orvery exposed
+Breakwater_Treads and Risers,3,NULL
+Breakwater_Treads and Risers,7,if required foroperational access.
+Breakwater_Waling,6,NULL
+Bridge Abutment_Berm,5,NULL
+Bridge Abutment_Berm,7,If less than 3 metreswide.
+Bridge Abutment_Channel Side,5,NULL
+Bridge Abutment_Channel Side,7,If less than 3 metreshorizontally from asset.
+Bridge Abutment_Crest,7,NULL
+Bridge Abutment_Exposed Face,9,NULL
+Bridge Abutment_Landward Face,7,NULL
+Bridge Abutment_Landward Face,3,If Landward Face is HighGround.
+Bridge Abutment_Shore,5,NULL
+Bridge Abutment_Shore,8,"If asset is extremelyexposed, or Shoreprovides structuralstability and preventsexposure of thefoundations."
+Bridge_Abutment,7,NULL
+Bridge_Abutment,9,If no revetment (Faceprotection) present
+Bridge_Automation Interface,NULL,NULL
+Bridge_Balustrade,4,NULL
+Bridge_Balustrade,9,If Bridge is narrow andElement required forsafe operation
+Bridge_Bollard,3,NULL
+Bridge_Bollard,6,If element plays a safetycritical role
+Bridge_Cable and Pipe Management,3,NULL
+Bridge_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe Bridge such ascontrol cables or powerfor safety systems
+Bridge_Channel Bed,7,NULL
+Bridge_Channel Bed,9,If the Channel Bedprovides structuralsupport or erosion
+Bridge_Deck,7,NULL
+Bridge_Deck,9,If Deck is over water.
+Bridge_Drive Assembly,7,NULL
+Bridge_Drive Assembly,9,If there is no alternativefor operating the asset.
+Bridge_Foundation,9,NULL
+Bridge_Handrail,4,NULL
+Bridge_Handrail,7,If element required forsafe operation.
+Bridge_Pillar,8,NULL
+Bridge_Pillar,9,If element is critical tostructural integrity ofthe asset.
+Bridge_Security Barrier,3,NULL
+Bridge_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Bridge_Span,9,NULL
+Bridge_Treads and Risers,7,NULL
+Bridge_Treads and Risers,9,if required foroperational access.
+Buoy_Anchor and Chain,9,NULL
+Buoy_Daymark,9,NULL
+Buoy_Fastenings,7,NULL
+Buoy_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Buoy_Foghorn,NULL,NULL
+Buoy_Frame,6,NULL
+Buoy_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Buoy_Mooring Point,6,NULL
+Buoy_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Buoy_Navigation Light,4,NULL
+Buoy_Positional Indicator,NULL,NULL
+Buoy_Post,8,NULL
+Buoy_Post,9,If element is critical forasset function
+Buoy_TopMark,2,NULL
+Cableway_Access Point,9,NULL
+Cableway_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Cableway_Access Strip,9,NULL
+Cableway_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Cableway_Beams,8,NULL
+Cableway_Beams,9,If element deemed tobe load bearing
+Cableway_Cable and Pipe Management,4,NULL
+Cableway_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe cableway such ascontrol cables orsupport for thecableway.
+Cableway_Chain Blocks,NULL,NULL
+Cableway_Drive Assembly,7,NULL
+Cableway_Drive Assembly,9,If there is no alternativefor operating the asset.
+Cableway_Equipment Housing,4,NULL
+Cableway_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Cableway_Fixings,6,NULL
+Cableway_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Cableway_Foundation,9,NULL
+Cableway_Frame,7,NULL
+Cableway_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Cableway_Padlock or Lock,6,NULL
+Cableway_Padlock or Lock,9,if critical to theoperation of the asset
+Cableway_Ropes,9,NULL
+Cableway_Stanchions and Anchors,9,NULL
+Cableway_Structural Steelwork,9,NULL
+Cableway_Treads and Risers,3,NULL
+Cableway_Treads and Risers,7,if required foroperational access.
+Cableway_Winch,NULL,NULL
+Canoe Pass_Access Strip,6,NULL
+Canoe Pass_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Canoe Pass_Bearing Piling,6,NULL
+Canoe Pass_Bearing Piling,9,If element is key tostructural stability orsafety.
+Canoe Pass_Chamber,4,NULL
+Canoe Pass_Chamber,9,If element is critical foroperation.
+Canoe Pass_Channel Bed,7,NULL
+Canoe Pass_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Canoe Pass_Gantry,1,NULL
+Canoe Pass_Gantry,5,If failure wouldcompromise operation.
+Canoe Pass_Ladder,3,NULL
+Canoe Pass_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Canoe Pass_Left Bank Wall,6,NULL
+Canoe Pass_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Canoe Pass_Mooring Point,6,NULL
+Canoe Pass_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Canoe Pass_Piling,6,NULL
+Canoe Pass_Piling,9,If element is key tostructural stability orsafety.
+Canoe Pass_Right Bank Wall,6,NULL
+Canoe Pass_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Canoe Pass_Security Barrier,3,NULL
+Canoe Pass_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Canoe Pass_Slope,6,NULL
+Canoe Pass_Slope,9,If element critical tooverall asset function.
+Canoe Pass_Stoplogs and Lasherboards,3,NULL
+Canoe Pass_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Canoe Pass_Walkway,3,NULL
+Canoe Portage Point_Access Strip,9,NULL
+Canoe Portage Point_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Canoe Portage Point_Anchor and Chain,6,NULL
+Canoe Portage Point_Anchor and Chain,9,If sole restraint
+Canoe Portage Point_Bearing Piling,6,NULL
+Canoe Portage Point_Bearing Piling,9,If element is key tostructural stability orsafety.
+Canoe Portage Point_Capping Beam,6,NULL
+Canoe Portage Point_Deck,7,NULL
+Canoe Portage Point_Deck,9,If Deck is over water.
+Canoe Portage Point_Fender,5,NULL
+Canoe Portage Point_Gantry,1,NULL
+Canoe Portage Point_Gantry,5,If failure wouldcompromise operation.
+Canoe Portage Point_Habitat Enhancement,1,NULL
+Canoe Portage Point_Mooring Point,6,NULL
+Canoe Portage Point_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Canoe Portage Point_Piling,6,NULL
+Canoe Portage Point_Piling,9,If element is key tostructural stability orsafety.
+Canoe Portage Point_Security Barrier,3,NULL
+Canoe Portage Point_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Canoe Portage Point_Sheet Piling,7,NULL
+Canoe Portage Point_Sheet Piling,9,if failure would preventaccess / operation.
+Canoe Portage Point_Slope,3,NULL
+Canoe Portage Point_Treads and Risers,3,NULL
+Canoe Portage Point_Treads and Risers,7,if required foroperational access.
+Car Park or Hardstanding_Access Point,9,NULL
+Car Park or Hardstanding_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Car Park or Hardstanding_Access Strip,9,NULL
+Car Park or Hardstanding_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Car Park or Hardstanding_Bollard,3,NULL
+Car Park or Hardstanding_Bollard,6,If element plays a safetycritical role
+Car Park or Hardstanding_Drainage Ditch,5,NULL
+Car Park or Hardstanding_Drainage System,5,NULL
+Car Park or Hardstanding_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Car Park or Hardstanding_Grassed Elements,3,NULL
+Car Park or Hardstanding_Grassed Elements,5,If element forms a keycomponent of the finalsurface.
+Car Park or Hardstanding_Kerbs,4,NULL
+Car Park or Hardstanding_Lighting,NULL,NULL
+Car Park or Hardstanding_Parking Surface,9,NULL
+Car Park or Hardstanding_Road,3,NULL
+Car Park or Hardstanding_Road,9,"If critical to thefunctioning of the asset,i.e., there is noalternative access."
+Car Park or Hardstanding_Security Barrier,3,NULL
+Car Park or Hardstanding_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Car Park or Hardstanding_Security Camera,1,NULL
+Car Park or Hardstanding_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+CCTV Camera System_Camera,7,NULL
+CCTV Camera System_Camera,5,if able to monitor assetby alternative means.
+CCTV Camera System_Civils,4,NULL
+CCTV Camera System_Distribution Board,NULL,NULL
+CCTV Camera System_Distribution Network Operator Feeder,NULL,NULL
+CCTV Camera System_Electrical System,NULL,NULL
+CCTV Camera System_Electricity Meter,NULL,NULL
+CCTV Camera System_Electricity Sub Meter,NULL,NULL
+CCTV Camera System_Equipment Housing,4,NULL
+CCTV Camera System_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+CCTV Camera System_Fastenings,7,NULL
+CCTV Camera System_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+CCTV Camera System_Foundation,9,NULL
+CCTV Camera System_Incomer,NULL,NULL
+CCTV Camera System_Mast,9,NULL
+CCTV Camera System_Sensor,7,NULL
+CCTV Camera System_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+CCTV Camera System_Solar Panel,NULL,NULL
+CCTV Camera System_Transformer,NULL,NULL
+CCTV Camera System_Treads and Risers,3,NULL
+CCTV Camera System_Treads and Risers,7,if required foroperational access.
+CCTV Camera System_Wind Turbine,NULL,NULL
+Central Pier_Access Point,3,NULL
+Central Pier_Access Point,6,"If frequent maintenanceis required to keep theasset operational, e.g.,for flow measurement,and no alternativeaccess is available."
+Central Pier_Deck,7,NULL
+Central Pier_Deck,9,If Deck is over water.
+Central Pier_Expansion Joint,5,NULL
+Central Pier_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Central Pier_External Features,4,NULL
+Central Pier_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Central Pier_Foundation,9,NULL
+Central Pier_Roof,8,NULL
+Central Pier_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Central Pier_Treads and Risers,3,NULL
+Central Pier_Treads and Risers,7,if required foroperational access.
+Cliff_Cliff Top,1,NULL
+Cliff_Drainage Ditch,5,NULL
+Cliff_Exposed Face,7,NULL
+Cliff_Exposed Face,9,If asset is extremelyexposed.
+Cliff_Exposed Toe,5,NULL
+Cliff_Exposed Toe,8,If asset is extremelyexposed.
+Cliff_Face Protection,7,NULL
+Complex Culvert_Apron,5,NULL
+Complex Culvert_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Complex Culvert_Channel Bed,7,NULL
+Complex Culvert_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Complex Culvert_Downstream Headwall,8,NULL
+Complex Culvert_Downstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport anembankment orinfrastructure above."
+Complex Culvert_Left Culvert Wall,7,NULL
+Complex Culvert_Left Culvert Wall,9,"If construction materialis unknown, or heavyloading above theculvert."
+Complex Culvert_Maintenance Hole,3,NULL
+Complex Culvert_Maintenance Hole,9,if element collapse /blockage directlyimpacts theperformance of theasset.
+Complex Culvert_Right Culvert Wall,7,NULL
+Complex Culvert_Right Culvert Wall,9,"If construction materialis unknown, or heavyloading above theculvert."
+Complex Culvert_Soffit,7,NULL
+Complex Culvert_Soffit,9,"If construction materialis unknown, or heavyloading above theculvert."
+Complex Culvert_Upstream Headwall,8,NULL
+Complex Culvert_Upstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport anembankment orinfrastructure above."
+Control Building_Access Strip,9,NULL
+Control Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Control Building_Alternator,NULL,NULL
+Control Building_Beams,8,NULL
+Control Building_Beams,9,If element deemed tobe load bearing
+Control Building_Cable and Pipe Management,4,NULL
+Control Building_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building or assetbeing controlled.
+Control Building_Ceiling,4,NULL
+Control Building_Civils,4,NULL
+Control Building_Climate Control,NULL,NULL
+Control Building_Datum Plates and Markers,2,NULL
+Control Building_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Control Building_Distribution Board,NULL,NULL
+Control Building_Distribution Network Operator Feeder,NULL,NULL
+Control Building_Doors and Windows,6,NULL
+Control Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Control Building_Drainage System,5,NULL
+Control Building_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Control Building_Electrical System,NULL,NULL
+Control Building_Electricity Meter,NULL,NULL
+Control Building_Electricity Sub Meter,NULL,NULL
+Control Building_Equipment Housing,4,NULL
+Control Building_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Control Building_Equipment Mounting Board,3,NULL
+Control Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Control Building_External Features,4,NULL
+Control Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Control Building_External Walls,8,NULL
+Control Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Control Building_Fastenings,7,NULL
+Control Building_Fastenings,1,if item secured and itdoes not directlycontribute towards the
+Control Building_Fire Protection,NULL,NULL
+Control Building_Fixed Fall Arrest System,NULL,NULL
+Control Building_Fixings,3,NULL
+Control Building_Floor,8,NULL
+Control Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Control Building_Foundation,9,NULL
+Control Building_Frame,8,NULL
+Control Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Control Building_Fuel Cell,NULL,NULL
+Control Building_Gas System,NULL,NULL
+Control Building_Grassed Elements,1,NULL
+Control Building_Habitat Enhancement,1,NULL
+Control Building_Heating System,NULL,NULL
+Control Building_Hydro Turbine,NULL,NULL
+Control Building_Incomer,NULL,NULL
+Control Building_Internal Features,1,NULL
+Control Building_Internal Walls,4,NULL
+Control Building_Internal Walls,9,If load bearing or criticalfor security or noisecontrol.
+Control Building_Ladder,3,NULL
+Control Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Control Building_Lighting,NULL,NULL
+Control Building_Maintenance Hole,3,NULL
+Control Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Control Building_Padlock or Lock,6,NULL
+Control Building_Padlock or Lock,9,if critical to theoperation of the asset
+Control Building_Planted Elements,1,NULL
+Control Building_Roller Shutters,6,NULL
+Control Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Control Building_Roof,8,NULL
+Control Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Control Building_Security Camera,1,NULL
+Control Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Control Building_Sewage Treatment System,NULL,NULL
+Control Building_Solar Panel,NULL,NULL
+Control Building_Structural Steelwork,9,NULL
+Control Building_Substructure,8,NULL
+Control Building_Substructure,9,if function /performance of theasset beingcompromised.
+Control Building_Transformer,NULL,NULL
+Control Building_Treads and Risers,3,NULL
+Control Building_Treads and Risers,7,if required foroperational access.
+Control Building_Uninterruptible Power Supply,NULL,NULL
+Control Building_Ventilation System,NULL,NULL
+Control Building_Waste Disposal System,NULL,NULL
+Control Building_Water Supply Plumbing System,9,NULL
+Control Building_Wind Turbine,NULL,NULL
+Control Gate_Actuator,NULL,NULL
+Control Gate_Alternator,NULL,NULL
+Control Gate_Apron,5,NULL
+Control Gate_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Control Gate_Balance Beam,9,NULL
+Control Gate_Balance Weight,NULL,NULL
+Control Gate_Cathodic Protection,NULL,NULL
+Control Gate_Central Support Structure,6,NULL
+Control Gate_Central Support Structure,4,If structure is minor andfailure will not lead tosudden release ofhazardous flows.
+Control Gate_Chains,NULL,NULL
+Control Gate_Cill,9,NULL
+Control Gate_Cill,7,If gate is used to retainwater intermittently forshort periods (e.g. floodmanagement)
+Control Gate_Dampers,NULL,NULL
+Control Gate_Davit,NULL,NULL
+Control Gate_Displacer System,NULL,NULL
+Control Gate_Distribution Board,NULL,NULL
+Control Gate_Distribution Network Operator Feeder,NULL,NULL
+Control Gate_Drive Assembly,9,NULL
+Control Gate_Electrical System,NULL,NULL
+Control Gate_Electricity Meter,NULL,NULL
+Control Gate_Electricity Sub Meter,NULL,NULL
+Control Gate_Face Plate,6,NULL
+Control Gate_Face Plate,9,If gate is critical to theoperation of the Asset
+Control Gate_Fixed Fall Arrest System,NULL,NULL
+Control Gate_Flap Valve,9,NULL
+Control Gate_Flap Valve,7,If a secondary nonreturn valve or penstockis installed.
+Control Gate_Foghorn,NULL,NULL
+Control Gate_Frame,7,NULL
+Control Gate_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Control Gate_Fuel Cell,NULL,NULL
+Control Gate_Gantry,1,NULL
+Control Gate_Gantry,5,If failure wouldcompromise operation.
+Control Gate_Gate,9,NULL
+Control Gate_Gearbox,NULL,NULL
+Control Gate_Hydro Turbine,NULL,NULL
+Control Gate_Incomer,NULL,NULL
+Control Gate_Jib Crane,NULL,NULL
+Control Gate_Ladder,3,NULL
+Control Gate_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Control Gate_Left Bank Wall,6,NULL
+Control Gate_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Control Gate_Lifting Chains and Sprockets,NULL,NULL
+Control Gate_Lifting Ropes and Drums,NULL,NULL
+Control Gate_Motor,NULL,NULL
+Control Gate_Navigation Light,3,NULL
+Control Gate_Overhead Crane,NULL,NULL
+Control Gate_Pontoon,1,NULL
+Control Gate_Right Bank Wall,6,NULL
+Control Gate_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Control Gate_Seals,7,NULL
+Control Gate_Solar Panel,NULL,NULL
+Control Gate_Springs,NULL,NULL
+Control Gate_Stoplogs and Lasherboards,3,NULL
+Control Gate_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Control Gate_Structural Steelwork,9,NULL
+Control Gate_Struts and Bracing,7,NULL
+Control Gate_Transformer,NULL,NULL
+Control Gate_Treads and Risers,3,NULL
+Control Gate_Treads and Risers,7,if required foroperational access.
+Control Gate_Uninterruptible Power Supply,NULL,NULL
+Control Gate_Winch,NULL,NULL
+Control Gate_Wind Turbine,NULL,NULL
+Control Gate_Wire Ropes,NULL,NULL
+Debris Boom_Access Strip,6,NULL
+Debris Boom_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Debris Boom_Anchor and Chain,9,NULL
+Debris Boom_Barrier Fixings,7,NULL
+Debris Boom_Barrier Fixings,9,If full barrier isdependent on this fixingor just one other.
+Debris Boom_Bearing Piling,7,NULL
+Debris Boom_Bearing Piling,9,If more than one pile
+Debris Boom_Central Support Structure,6,NULL
+Debris Boom_Central Support Structure,4,If element is minor andfailure will neithercompromise operationnor lead to suddenrelease of large volumesof water or debris.
+Debris Boom_Fastenings,7,NULL
+Debris Boom_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Debris Boom_Fixings,6,NULL
+Debris Boom_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Debris Boom_Floats,7,NULL
+Debris Boom_Floats,4,If sole function is toprotect piles.
+Debris Boom_Gantry,1,NULL
+Debris Boom_Gantry,5,If failure wouldcompromise operation.
+Debris Boom_Guide Pile,9,NULL
+Debris Boom_Guide Pile,7,If single guide pile.
+Debris Boom_Ladder,3,NULL
+Debris Boom_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Debris Boom_Left Bank Wall,6,NULL
+Debris Boom_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Debris Boom_Padlock or Lock,6,NULL
+Debris Boom_Padlock or Lock,9,if critical to theoperation of the asset
+Debris Boom_Piling,7,NULL
+Debris Boom_Piling,9,If more than one pile
+Debris Boom_Post,9,NULL
+Debris Boom_Right Bank Wall,6,NULL
+Debris Boom_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Debris Boom_Ropes,9,NULL
+Debris Boom_Treads and Risers,3,NULL
+Debris Boom_Treads and Risers,7,if required foroperational access.
+Debris Screen_Access Point,9,NULL
+Debris Screen_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Debris Screen_Access Strip,9,NULL
+Debris Screen_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Debris Screen_Alternator,NULL,NULL
+Debris Screen_Articulated Arm,NULL,NULL
+Debris Screen_Balustrade,4,NULL
+Debris Screen_Balustrade,9,If element required forsafe manual operation
+Debris Screen_Central Support Structure,6,NULL
+Debris Screen_Central Support Structure,4,If element is minor andfailure will neithercompromise operationnor lead to suddenrelease of large volumesof water or debris.
+Debris Screen_Cover or Hatch,1,NULL
+Debris Screen_Davit,NULL,NULL
+Debris Screen_Distribution Board,NULL,NULL
+Debris Screen_Distribution Network Operator Feeder,NULL,NULL
+Debris Screen_Electrical System,NULL,NULL
+Debris Screen_Electricity Meter,NULL,NULL
+Debris Screen_Electricity Sub Meter,NULL,NULL
+Debris Screen_Equipment Housing,4,NULL
+Debris Screen_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Debris Screen_Fill,NULL,NULL
+Debris Screen_Fixed Fall Arrest System,NULL,NULL
+Debris Screen_Foundation,9,NULL
+Debris Screen_Frame,7,NULL
+Debris Screen_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Debris Screen_Fuel Cell,NULL,NULL
+Debris Screen_Gantry,1,NULL
+Debris Screen_Gantry,5,If failure wouldcompromise operation.
+Debris Screen_Gearbox,NULL,NULL
+Debris Screen_Ground Anchors,6,NULL
+Debris Screen_Handrail,4,NULL
+Debris Screen_Handrail,7,If element required forsafe operation.
+Debris Screen_Heating System,NULL,NULL
+Debris Screen_Hydro Turbine,NULL,NULL
+Debris Screen_Incomer,NULL,NULL
+Debris Screen_Ladder,3,NULL
+Debris Screen_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Debris Screen_Left Bank Wall,6,NULL
+Debris Screen_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Debris Screen_Motor,NULL,NULL
+Debris Screen_Overhead Crane,NULL,NULL
+Debris Screen_Padlock or Lock,6,NULL
+Debris Screen_Padlock or Lock,9,if critical to theoperation of the asset
+Debris Screen_Right Bank Wall,6,NULL
+Debris Screen_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Debris Screen_Rotating Comb,8,NULL
+Debris Screen_Rotating Comb,9,if no alternative meansof clearing the screen
+Debris Screen_Rotating Drum,8,NULL
+Debris Screen_Rotating Drum,9,If no alternative meansof clearing the screen
+Debris Screen_Screen,8,NULL
+Debris Screen_Silt Trap,1,NULL
+Debris Screen_Silt Trap,5,"If watercourse is steep,upland and/or carriesheavy sediment load."
+Debris Screen_Solar Panel,NULL,NULL
+Debris Screen_Structural Steelwork,9,NULL
+Debris Screen_Transformer,NULL,NULL
+Debris Screen_Treads and Risers,3,NULL
+Debris Screen_Treads and Risers,7,if required foroperational access.
+Debris Screen_Uninterruptible Power Supply,NULL,NULL
+Debris Screen_Upstream Headwall,6,NULL
+Debris Screen_Upstream Headwall,8,If critical for flow orlevel monitoring.
+Debris Screen_Vertical Grab,NULL,NULL
+Debris Screen_Winch,NULL,NULL
+Debris Screen_Wind Turbine,NULL,NULL
+Demountable Defence_Barrier,9,NULL
+Demountable Defence_Barrier Fixings,7,NULL
+Demountable Defence_Barrier Fixings,9,If full barrier isdependent on this fixingor just one other.
+Demountable Defence_Berm,5,NULL
+Demountable Defence_Berm,7,If less than 3 metreswide.
+Demountable Defence_Channel Side,5,NULL
+Demountable Defence_Channel Side,7,If less than 3 metreshorizontally from asset.
+Demountable Defence_Open Gap,7,NULL
+Demountable Defence_Seals,7,NULL
+Demountable Defence_Shore,5,NULL
+Demountable Defence_Shore,8,"If asset is extremelyexposed, or the Shoreprovides structuralstability or erosionprotection to the areaon which the asset isfounded."
+Dock_Access Strip,9,NULL
+Dock_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Dock_Apron,5,NULL
+Dock_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Dock_Bollard,3,NULL
+Dock_Bollard,6,If element plays a safetycritical role
+Dock_Chamber,3,NULL
+Dock_Cill,9,NULL
+Dock_Cill,7,If gate is used to retainwater intermittently forshort periods (e.g. formovement of boats)
+Dock_Dock Face,8,NULL
+Dock_Gantry,1,NULL
+Dock_Gantry,5,If failure wouldcompromise operation.
+Dock_Ladder,3,NULL
+Dock_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Dock_Left Bank Wall,6,NULL
+Dock_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Dock_Lock Gate,9,NULL
+Dock_Mooring Point,6,NULL
+Dock_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Dock_Pump,NULL,NULL
+Dock_Right Bank Wall,6,NULL
+Dock_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Dock_Roof,8,NULL
+Dock_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Dock_Service Pedestal,2,NULL
+Dock_Water Point,NULL,NULL
+Dolphin_Bearing Piling,9,NULL
+Dolphin_Gantry,1,NULL
+Dolphin_Gantry,5,If failure wouldcompromise operation.
+Dolphin_Mooring Point,6,NULL
+Dolphin_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Dolphin_Piling,9,NULL
+Draw Off Tower_Gantry,1,NULL
+Draw Off Tower_Gantry,5,If failure wouldcompromise operation.
+Draw Off Tower_Intake Tower,9,NULL
+Draw Off Tower_Pipe,6,NULL
+Draw Off Tower_Pipe,9,If full functionality ofthe assets is dependentsolely on the pipe beingassessed.
+Draw Off Tower_Pipe Valve,6,NULL
+Draw Off Tower_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Draw Off Tower_Treads and Risers,3,NULL
+Draw Off Tower_Treads and Risers,7,if required foroperational access.
+Dunes_Active Zone,6,NULL
+Dunes_Active Zone,8,if Asset is extremelyexposed or its widthsufficiently narrow thatit could be erodedwithin 3 months.
+Dunes_Boardwalk,4,NULL
+Dunes_Boardwalk,9,If extent of dune systemis narrow and noalternative / diversionroute is available.
+Dunes_Stabilised Zone,9,NULL
+Dunes_Vegetation Cover,5,NULL
+Dunes_Vegetation Cover,9,"If vegetation covercritical to the functionof the asset e.g., Saltmarsh or Dunes."
+Embankment_Access Strip,6,NULL
+Embankment_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Embankment_Asset Transition,7,NULL
+Embankment_Asset Transition,9,"If the Transition has aninherent weaknesseither thru poor design(including subsequentworks/changes), orfrom observedmaintenance practices.and/or if the 1. Crest isless than 4 metres wideand has a history ofovertopping, or 2.Exposed face is steeperthan 1V:3H, or isexposed to waveloading with noengineered erosionprotection, or 3,Landward face issteeper than 1V:3H, orhas a history ofovertopping with noengineered erosionprotection."
+Embankment_Bearing Piling,8,NULL
+Embankment_Berm,5,NULL
+Embankment_Berm,7,If less than 3 metreswide.
+Embankment_Capping Beam,4,NULL
+Embankment_Capping Beam,6,If critical to thestructural integrity ofthe asset
+Embankment_Channel Side,5,NULL
+Embankment_Channel Side,7,If less than 3 metreshorizontally from asset.
+Embankment_Core,NULL,NULL
+Embankment_Crest,7,NULL
+Embankment_Crest,9,If Crest is less than 4metres wide and has ahistory of overtoppingor overflowing.
+Embankment_Exposed Face,7,NULL
+Embankment_Exposed Face,9,If steeper than 1V:3H oris exposed to waveloading with noengineered erosionprotection.
+Embankment_Exposed Toe,5,NULL
+Embankment_Exposed Toe,8,If steeper than 1V:3H orexposed to extremeloading.
+Embankment_Fill,NULL,NULL
+Embankment_Landward Face,7,NULL
+Embankment_Landward Face,9,If steeper than 1V:3H orhas a history ofovertopping with noengineered erosionprotection.
+Embankment_Landward Toe,7,NULL
+Embankment_Pile Capping,4,NULL
+Embankment_Pile Capping,6,If element is critical tostructural stability ofthe asset.
+Embankment_Piling,8,NULL
+Embankment_Retaining Wall,6,NULL
+Embankment_Retaining Wall,9,if failure would lowerthe crest of the asset
+Embankment_Sheet Piling,8,NULL
+Embankment_Sheet Piling,9,If element is used forholding back water
+Embankment_Shore,5,NULL
+Embankment_Shore,8,"If asset is extremelyexposed, or the Shoreprovides structuralstability or erosionprotection to the areaon which the asset isfounded."
+Embankment_Toe Drain,3,NULL
+Embankment_Toe Drain,8,"If embankment issupporting, or above,any criticalinfrastructure."
+Engine Assembly_Cooling System,NULL,NULL
+Engine Assembly_Engine,NULL,NULL
+Engine Assembly_Exhaust System,NULL,NULL
+Engine Assembly_Fuel System,NULL,NULL
+Engine Assembly_Gearbox,NULL,NULL
+Engineered High Ground_Access Strip,3,NULL
+Engineered High Ground_Bearing Piling,8,NULL
+Engineered High Ground_Berm,5,NULL
+Engineered High Ground_Berm,7,If less than 1 metrewide.
+Engineered High Ground_Capping Beam,4,NULL
+Engineered High Ground_Capping Beam,6,If critical to thestructural integrity ofthe asset
+Engineered High Ground_Channel Side,7,NULL
+Engineered High Ground_Channel Side,9,If less than 3 metreshorizontally from assetor if failure would blocka significant proportionof the channel.
+Engineered High Ground_Coping,2,NULL
+Engineered High Ground_Expansion Joint,5,NULL
+Engineered High Ground_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Engineered High Ground_Ground Anchors,6,NULL
+Engineered High Ground_High Ground,3,NULL
+Engineered High Ground_High Ground,1,If High ground risessteeply away fromchannel side or coast
+Engineered High Ground_Piling,8,NULL
+Engineered High Ground_Retaining Wall,6,NULL
+Engineered High Ground_Retaining Wall,9,if failure would block asignificant proportion ofthe channel.
+Engineered High Ground_Sheet Piling,8,NULL
+Engineered High Ground_Sheet Piling,9,If element is used forholding back water
+Engineered High Ground_Shore,1,NULL
+Engineered High Ground_Shore,5,If the Shore providesstructural stability orerosion protection tostructures that retainthe highground.
+Fish or Eel Barrier_Access Point,6,NULL
+Fish or Eel Barrier_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Fish or Eel Barrier_Access Strip,6,NULL
+Fish or Eel Barrier_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Fish or Eel Barrier_Band Screen,7,NULL
+Fish or Eel Barrier_Band Screen,9,"If primary function ofasset is fishmanagement e.g., Fishor Eel barrier."
+Fish or Eel Barrier_Cable and Pipe Management,3,NULL
+Fish or Eel Barrier_Cable and Pipe Management,6,"If cables or pipes areintegral to operation ofthe asset, for examplecontrolling gates etc."
+Fish or Eel Barrier_Central Support Structure,6,NULL
+Fish or Eel Barrier_Chain Blocks,NULL,NULL
+Fish or Eel Barrier_Channel Bed,7,NULL
+Fish or Eel Barrier_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Fish or Eel Barrier_Equipment Housing,4,NULL
+Fish or Eel Barrier_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Fish or Eel Barrier_Fish Guidance and Deterrents,NULL,NULL
+Fish or Eel Barrier_Fish or Eel Screen,7,NULL
+Fish or Eel Barrier_Fish or Eel Screen,9,If sole means ofpreventing fish enteringthe excluded area.
+Fish or Eel Barrier_Frame,7,NULL
+Fish or Eel Barrier_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Fish or Eel Barrier_Left Bank Wall,6,NULL
+Fish or Eel Barrier_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Fish or Eel Barrier_Lighting,NULL,NULL
+Fish or Eel Barrier_Padlock or Lock,6,NULL
+Fish or Eel Barrier_Padlock or Lock,9,if critical to theoperation of the asset
+Fish or Eel Barrier_Pipe,6,NULL
+Fish or Eel Barrier_Pipe,9,If full functionality ofthe assets is dependentsolely on the pipe beingassessed.
+Fish or Eel Barrier_Right Bank Wall,6,NULL
+Fish or Eel Barrier_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Fish or Eel Barrier_Ropes,7,NULL
+Fish or Eel Barrier_Sensor,3,NULL
+Fish or Eel Barrier_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Fish or Eel Barrier_Solar Panel,NULL,NULL
+Fish or Eel Barrier_Stanchions and Anchors,9,NULL
+Fish or Eel Barrier_Treads and Risers,3,NULL
+Fish or Eel Barrier_Treads and Risers,7,if required foroperational access.
+Fish Pass_Access Point,6,NULL
+Fish Pass_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Fish Pass_Access Strip,6,NULL
+Fish Pass_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Fish Pass_Apron,5,NULL
+Fish Pass_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Fish Pass_Band Screen,7,NULL
+Fish Pass_Band Screen,9,If primary function ofasset is fishmanagement e.g. Fishor Eel barrier.
+Fish Pass_Bristle Mats,7,NULL
+Fish Pass_Bristle Mats,9,if critical to passage ofthe fish species theasset is designed for e.g.Eel or Lamprey.
+Fish Pass_Cable and Pipe Management,3,NULL
+Fish Pass_Cable and Pipe Management,6,"If cables or pipes areintegral to operation ofthe asset, for examplecontrolling gates etc."
+Fish Pass_Capping Beam,6,NULL
+Fish Pass_Central Support Structure,6,NULL
+Fish Pass_Chamber,5,NULL
+Fish Pass_Chamber,7,If element is critical foroperation.
+Fish Pass_Channel,9,NULL
+Fish Pass_Channel Bed,7,NULL
+Fish Pass_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Fish Pass_Cill,3,NULL
+Fish Pass_Cover or Hatch,1,NULL
+Fish Pass_Crest,7,NULL
+Fish Pass_Crest,9,If Crest can influenceflow or levelmonitoring.
+Fish Pass_Dampers,NULL,NULL
+Fish Pass_Datum Plates and Markers,4,NULL
+Fish Pass_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Fish Pass_Deflector,6,NULL
+Fish Pass_Deflector,8,if critical for keeping thepass functional.
+Fish Pass_Distribution Board,NULL,NULL
+Fish Pass_Distribution Network Operator Feeder,NULL,NULL
+Fish Pass_Downstream Face,7,NULL
+Fish Pass_Downstream Face,9,If element is part of aspillway or critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Fish Pass_Downstream Headwall,8,NULL
+Fish Pass_Eel Tiles,7,NULL
+Fish Pass_Eel Tiles,9,if critical to passage ofthe fish species theasset is designed for e.g.Eel or Lamprey.
+Fish Pass_Electrical System,NULL,NULL
+Fish Pass_Electricity Meter,NULL,NULL
+Fish Pass_Electricity Sub Meter,NULL,NULL
+Fish Pass_Equipment Housing,4,NULL
+Fish Pass_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Fish Pass_Excavated Ground,5,NULL
+Fish Pass_Excavated Ground,9,if failure would blockflows through the asset.
+Fish Pass_Expansion Joint,5,NULL
+Fish Pass_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Fish Pass_Face Plate,6,NULL
+Fish Pass_Face Plate,9,If gate is critical to theoperation of the Asset
+Fish Pass_Face Protection,7,NULL
+Fish Pass_Fastenings,7,NULL
+Fish Pass_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Fish Pass_Fixed Fall Arrest system,NULL,NULL
+Fish Pass_Fixings,3,NULL
+Fish Pass_Foundation,9,NULL
+Fish Pass_Frame,7,NULL
+Fish Pass_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Fish Pass_Fuel Cell,NULL,NULL
+Fish Pass_Gantry,1,NULL
+Fish Pass_Gantry,5,If failure wouldcompromise operation.
+Fish Pass_Habitat Enhancement,1,NULL
+Fish Pass_Hydro Turbine,NULL,NULL
+Fish Pass_Incomer,NULL,NULL
+Fish Pass_Inlet,9,NULL
+Fish Pass_Ladder,3,NULL
+Fish Pass_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Fish Pass_Left Face,9,NULL
+Fish Pass_Maintenance Hole,3,NULL
+Fish Pass_Maintenance Hole,6,If element provides solemeans of undertaking
+Fish Pass_Mooring Point,6,NULL
+Fish Pass_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Fish Pass_Navigation Light,3,NULL
+Fish Pass_Outlet,9,NULL
+Fish Pass_Padlock or Lock,6,NULL
+Fish Pass_Padlock or Lock,9,if critical to theoperation of the asset
+Fish Pass_Pass Baffles,9,NULL
+Fish Pass_Pass Channel,9,NULL
+Fish Pass_Pipe,6,NULL
+Fish Pass_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Fish Pass_Pipework,6,NULL
+Fish Pass_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Fish Pass_Pre-Barrage,6,NULL
+Fish Pass_Pre-Barrage,9,if critical to passage ofthe fish species theasset is designed for e.g.Fish or Lamprey.
+Fish Pass_Retaining Wall,6,NULL
+Fish Pass_Retaining Wall,9,if element is requiredfor structural integrityor failure would preventoperation of the asset.
+Fish Pass_Right Face,9,NULL
+Fish Pass_Seals,5,NULL
+Fish Pass_Seals,7,If element is critical forasset function
+Fish Pass_Sensor,3,NULL
+Fish Pass_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Fish Pass_Sheet Piling,7,NULL
+Fish Pass_Sheet Piling,9,if failure would preventaccess / operation.
+Fish Pass_Silt Trap,1,NULL
+Fish Pass_Silt Trap,5,"If watercourse is steep,upland and/or carriesheavy sediment load."
+Fish Pass_Solar Panel,NULL,NULL
+Fish Pass_Springs,NULL,NULL
+Fish Pass_Stoplogs and Lasherboards,3,NULL
+Fish Pass_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Fish Pass_Struts and Bracing,7,NULL
+Fish Pass_Substructure,8,NULL
+Fish Pass_Substructure,9,if function /performance of theasset beingcompromised.
+Fish Pass_Transformer,NULL,NULL
+Fish Pass_Treads and Risers,3,NULL
+Fish Pass_Treads and Risers,7,if required foroperational access.
+Fish Pass_Uninterruptible Power Supply,NULL,NULL
+Fish Pass_Upstream Face,7,NULL
+Fish Pass_Upstream Face,9,If element is critical forflow or levelmonitoring.
+Fish Pass_Upstream Headwall,6,NULL
+Fish Pass_Upstream Headwall,8,If critical for flow orlevel monitoring.
+Fish Pass_Winch,NULL,NULL
+Fish Pass_Wind Turbine,NULL,NULL
+Fish Refuge_Access Point,6,NULL
+Fish Refuge_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Fish Refuge_Access Strip,6,NULL
+Fish Refuge_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Fish Refuge_Anchor and Chain,9,NULL
+Fish Refuge_Animal Feeding Station,3,NULL
+Fish Refuge_Animal Feeding Station,9,If element categorisedas Critical to overallasset function
+Fish Refuge_Balustrade,4,NULL
+Fish Refuge_Balustrade,7,If element required forsafe operation.
+Fish Refuge_Floats,9,NULL
+Fish Refuge_Floats,3,If fish refuge is notreliant on floats to stayin position.
+Fish Refuge_Gantry,1,NULL
+Fish Refuge_Gantry,5,If failure wouldcompromise operation.
+Fish Refuge_Handrail,4,NULL
+Fish Refuge_Handrail,7,If element required forsafe operation.
+Fish Refuge_Ladder,3,NULL
+Fish Refuge_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Fish Refuge_Lifting Ropes and Drums,NULL,NULL
+Fish Refuge_Lighting,NULL,NULL
+Fish Refuge_Mooring Line Tensioners,NULL,NULL
+Fish Refuge_Mooring Point,6,NULL
+Fish Refuge_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Fish Refuge_Netting and Non Reinforcement Mesh,9,NULL
+Fish Refuge_Shackles,7,NULL
+Fish Refuge_Shackles,1,If element is notpermanently fixed tosite.
+Fish Refuge_Treads and Risers,3,NULL
+Fish Refuge_Treads and Risers,7,if required foroperational access.
+Fishing Cage_Access Point,6,NULL
+Fishing Cage_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Fishing Cage_Access Strip,6,NULL
+Fishing Cage_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Fishing Cage_Animal Feeding Station,9,NULL
+Fishing Cage_Balustrade,4,NULL
+Fishing Cage_Balustrade,7,If element required forsafe operation.
+Fishing Cage_Floats,9,NULL
+Fishing Cage_Gantry,1,NULL
+Fishing Cage_Gantry,5,If failure wouldcompromise operation.
+Fishing Cage_Handrail,4,NULL
+Fishing Cage_Handrail,7,If element required forsafe operation.
+Fishing Cage_Ladder,3,NULL
+Fishing Cage_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Fishing Cage_Lifting Ropes and Drums,NULL,NULL
+Fishing Cage_Lighting,NULL,NULL
+Fishing Cage_Mooring Line Tensioners,NULL,NULL
+Fishing Cage_Mooring Point,6,NULL
+Fishing Cage_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Fishing Cage_Netting and Non Reinforcement Mesh,7,NULL
+Fishing Cage_Shackles,9,NULL
+Fishing Cage_Treads and Risers,3,NULL
+Fishing Cage_Treads and Risers,7,if required foroperational access.
+Fishing Platform_Access Point,9,NULL
+Fishing Platform_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Fishing Platform_Access Strip,9,NULL
+Fishing Platform_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Fishing Platform_Balustrade,4,NULL
+Fishing Platform_Balustrade,7,If element required forsafe operation.
+Fishing Platform_Deck,7,NULL
+Fishing Platform_Deck,9,If Deck is over water.
+Fishing Platform_Fixed Seats,3,NULL
+Fishing Platform_Handrail,4,NULL
+Fishing Platform_Handrail,7,If element required forsafe operation.
+Fishing Platform_Ladder,3,NULL
+Fishing Platform_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Fishing Platform_Treads and Risers,3,NULL
+Fishing Platform_Treads and Risers,7,if required foroperational access.
+Flood Gate_Actuator,NULL,NULL
+Flood Gate_Berm,5,NULL
+Flood Gate_Berm,7,If less than 3 metreswide.
+Flood Gate_Cathodic Protection,NULL,NULL
+Flood Gate_Channel Side,5,NULL
+Flood Gate_Channel Side,7,If less than 3 metreshorizontally from asset.
+Flood Gate_Cill,7,NULL
+Flood Gate_Davit,NULL,NULL
+Flood Gate_Fastenings,7,NULL
+Flood Gate_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Flood Gate_Frame,7,NULL
+Flood Gate_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Flood Gate_Gate,9,NULL
+Flood Gate_Gearbox,NULL,NULL
+Flood Gate_Jib Crane,NULL,NULL
+Flood Gate_Motor,NULL,NULL
+Flood Gate_Overhead Crane,NULL,NULL
+Flood Gate_Seals,7,NULL
+Flood Gate_Shore,5,NULL
+Flood Gate_Shore,8,"If asset is extremelyexposed, or the Shoreprovides structuralstability or erosionprotection to the areaon which the asset isfounded."
+Flood Gate_Stoplogs and Lasherboards,3,NULL
+Flood Gate_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activities
+Flood Gate_Winch,NULL,NULL
+Flood Warning System_Equipment Housing,4,NULL
+Flood Warning System_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Flood Warning System_Fastenings,7,NULL
+Flood Warning System_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Flood Warning System_Fixings,6,NULL
+Flood Warning System_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Flood Warning System_Flood Warning Lamp,NULL,NULL
+Flood Warning System_Flood Warning Sign,NULL,NULL
+Flood Warning System_Flood Warning Siren,NULL,NULL
+Flood Warning System_Treads and Risers,3,NULL
+Flood Warning System_Treads and Risers,7,if required foroperational access.
+Ford_Flood Warning Sign,NULL,NULL
+Ford_Road,3,NULL
+Ford_Road,9,"If critical to thefunctioning of the asset,i.e. there is noalternative access."
+Garage_Alternator,NULL,NULL
+Garage_Ceiling,4,NULL
+Garage_Climate Control,NULL,NULL
+Garage_Distribution Board,NULL,NULL
+Garage_Distribution Network Operator Feeder,NULL,NULL
+Garage_Doors and Windows,6,NULL
+Garage_Doors and Windows,9,If element is critical foraccess/egress/security
+Garage_Drainage System,5,NULL
+Garage_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Garage_Electrical System,NULL,NULL
+Garage_Electricity Meter,NULL,NULL
+Garage_Electricity Sub Meter,NULL,NULL
+Garage_External Features,4,NULL
+Garage_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Garage_External Walls,8,NULL
+Garage_External Walls,9,If element deemed tobe load bearing orrequired for security
+Garage_Fire Protection,1,NULL
+Garage_Fixed Fall Arrest System,NULL,NULL
+Garage_Floor,8,NULL
+Garage_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Garage_Foundation,9,NULL
+Garage_Frame,8,NULL
+Garage_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Garage_Gas System,NULL,NULL
+Garage_Heating System,NULL,NULL
+Garage_Incomer,NULL,NULL
+Garage_Internal Features,1,NULL
+Garage_Lighting,NULL,NULL
+Garage_Roller Shutters,6,NULL
+Garage_Roller Shutters,9,If element is critical foraccess/egress/security
+Garage_Roof,8,NULL
+Garage_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Garage_Security Camera,1,NULL
+Garage_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Garage_Solar Panel,NULL,NULL
+Garage_Transformer,NULL,NULL
+Garage_Treads and Risers,3,NULL
+Garage_Treads and Risers,7,if required foroperational access.
+Garage_Uninterruptible Power Supply,NULL,NULL
+Garage_Ventilation System,NULL,NULL
+Garage_Waste Disposal System,NULL,NULL
+Garage_Water Supply Plumbing System,7,NULL
+Garage_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Gauge Board_Fastenings,7,NULL
+Gauge Board_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Gauge Board_Fixings,6,NULL
+Gauge Board_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Gauge Board_Foundation,9,NULL
+Gauge Board_Gauge Backing Board,6,NULL
+Gauge Board_Gauge Backing Board,9,If board is critical tomeasuring a value.
+Gauge Board_Measurement Scale,7,NULL
+Gauge Board_Measurement Scale,9,If sole means ofmeasuring a value.
+Gauge Board_Post,7,NULL
+Gauge Board_Post,9,If element is critical forasset function
+Gauge Board_Treads and Risers,3,NULL
+Gauge Board_Treads and Risers,7,if required foroperational access.
+Gauging Station Building_Access Strip,9,NULL
+Gauging Station Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Gauging Station Building_Alternator,NULL,NULL
+Gauging Station Building_Beams,8,NULL
+Gauging Station Building_Beams,9,If element deemed tobe load bearing
+Gauging Station Building_Cable and Pipe Management,4,NULL
+Gauging Station Building_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Gauging Station Building_Ceiling,4,NULL
+Gauging Station Building_Civils,4,NULL
+Gauging Station Building_Climate Control,NULL,NULL
+Gauging Station Building_Datum Plates and Markers,4,NULL
+Gauging Station Building_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Gauging Station Building_Distribution Board,NULL,NULL
+Gauging Station Building_Distribution Network Operator Feeder,NULL,NULL
+Gauging Station Building_Doors and Windows,6,NULL
+Gauging Station Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Gauging Station Building_Drainage System,5,NULL
+Gauging Station Building_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Gauging Station Building_Electrical System,NULL,NULL
+Gauging Station Building_Electricity Meter,NULL,NULL
+Gauging Station Building_Electricity Sub Meter,NULL,NULL
+Gauging Station Building_Equipment Housing,4,NULL
+Gauging Station Building_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Gauging Station Building_Equipment Mounting Board,3,NULL
+Gauging Station Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Gauging Station Building_External Features,4,NULL
+Gauging Station Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Gauging Station Building_External Walls,8,NULL
+Gauging Station Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Gauging Station Building_Fastenings,7,NULL
+Gauging Station Building_Fastenings,1,if item secured and itdoes not directlycontribute towards the
+Gauging Station Building_Fire Protection,1,NULL
+Gauging Station Building_Fixed Fall Arrest System,NULL,NULL
+Gauging Station Building_Fixings,3,NULL
+Gauging Station Building_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Gauging Station Building_Floor,8,NULL
+Gauging Station Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Gauging Station Building_Foundation,9,NULL
+Gauging Station Building_Frame,8,NULL
+Gauging Station Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Gauging Station Building_Fuel Cell,NULL,NULL
+Gauging Station Building_Gantry,1,NULL
+Gauging Station Building_Gantry,5,If failure wouldcompromise operation.
+Gauging Station Building_Gas System,NULL,NULL
+Gauging Station Building_Grassed Elements,1,NULL
+Gauging Station Building_Habitat Enhancement,1,NULL
+Gauging Station Building_Heating System,NULL,NULL
+Gauging Station Building_Hydro Turbine,NULL,NULL
+Gauging Station Building_Incomer,NULL,NULL
+Gauging Station Building_Internal Features,1,NULL
+Gauging Station Building_Internal Walls,4,NULL
+Gauging Station Building_Internal Walls,9,If load bearing or criticalfor security.
+Gauging Station Building_Ladder,3,NULL
+Gauging Station Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Gauging Station Building_Lighting,NULL,NULL
+Gauging Station Building_Maintenance Hole,3,NULL
+Gauging Station Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Gauging Station Building_Padlock or Lock,6,NULL
+Gauging Station Building_Padlock or Lock,9,if critical to theoperation of the asset
+Gauging Station Building_Planted Elements,1,NULL
+Gauging Station Building_Roller Shutters,6,NULL
+Gauging Station Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Gauging Station Building_Roof,8,NULL
+Gauging Station Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Gauging Station Building_Security Camera,1,NULL
+Gauging Station Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Gauging Station Building_Solar Panel,NULL,NULL
+Gauging Station Building_Substructure,8,NULL
+Gauging Station Building_Substructure,9,if function /performance of theasset beingcompromised.
+Gauging Station Building_Transformer,NULL,NULL
+Gauging Station Building_Treads and Risers,3,NULL
+Gauging Station Building_Treads and Risers,7,if required foroperational access.
+Gauging Station Building_Uninterruptible Power Supply,NULL,NULL
+Gauging Station Building_Ventilation System,NULL,NULL
+Gauging Station Building_Waste Disposal System,NULL,NULL
+Gauging Station Building_Water Supply Plumbing System,7,NULL
+Gauging Station Building_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Generator_Alternator,NULL,NULL
+Generator_Common Controls,NULL,NULL
+Generator_Distribution Board,NULL,NULL
+Generator_Distribution Network Operator Feeder,NULL,NULL
+Generator_Electrical System,NULL,NULL
+Generator_Electricity Meter,NULL,NULL
+Generator_Electricity Sub Meter,NULL,NULL
+Generator_Equipment Housing,4,NULL
+Generator_Equipment Housing,6,If equipment containedwithin element is notindependently
+Generator_Fuel System,NULL,NULL
+Generator_Gearbox,NULL,NULL
+Generator_Incomer,NULL,NULL
+Generator_Transformer,NULL,NULL
+Generator_Ventilation System,NULL,NULL
+Groyne_Bearing Piling,8,NULL
+Groyne_Capping Beam,4,NULL
+Groyne_Crest,7,NULL
+Groyne_Crest,9,If asset is extremelyexposed.
+Groyne_Fishtail,5,NULL
+Groyne_Fishtail,7,If asset is extremelyexposed.
+Groyne_Left Face,7,NULL
+Groyne_Left Face,9,If asset is extremelyexposed.
+Groyne_Piling,8,NULL
+Groyne_Right Face,7,NULL
+Groyne_Right Face,9,If asset is extremelyexposed.
+Groyne_Roundhead,5,NULL
+Groyne_Roundhead,7,If asset is extremelyexposed.
+Groyne_Sheet Piling,8,NULL
+Groyne_Sheet Piling,9,If element is used forholding back water orvery exposed
+Groyne_Stem,7,NULL
+Groyne_Stem,9,If asset is extremelyexposed or if rockgroyne does not have aLeft or Right Face.
+Groyne_Treads and Risers,3,NULL
+Groyne_Treads and Risers,7,if required foroperational access.
+Groyne_Waling,6,NULL
+High Voltage Electrical Equipment_Control Equipment,NULL,NULL
+High Voltage Electrical Equipment_Distribution Board,NULL,NULL
+High Voltage Electrical Equipment_Distribution Network Operator Feeder,NULL,NULL
+High Voltage Electrical Equipment_Electrical System,NULL,NULL
+High Voltage Electrical Equipment_Electricity Meter,NULL,NULL
+High Voltage Electrical Equipment_Electricity Sub Meter,NULL,NULL
+High Voltage Electrical Equipment_Incomer,NULL,NULL
+High Voltage Electrical Equipment_Power Factor Correction Capacitor,NULL,NULL
+High Voltage Electrical Equipment_Surge Arrester,NULL,NULL
+High Voltage Electrical Equipment_Switchgear,NULL,NULL
+High Voltage Electrical Equipment_Transformer,NULL,NULL
+Hydraulic System Assembly_Common Controls,NULL,NULL
+Hydraulic System Assembly_Display,NULL,NULL
+Hydraulic System Assembly_Gearbox,NULL,NULL
+Hydraulic System Assembly_Hydraulic Rams,NULL,NULL
+Hydraulic System Assembly_Hydraulic System,NULL,NULL
+Hydraulic System Assembly_Programmable Logic Computers,NULL,NULL
+Hydraulic System Assembly_Sensor,7,NULL
+Hydraulic System Assembly_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Hydraulic System Assembly_Starter,5,NULL
+Hydraulic System Assembly_Starter,9,Do not use variant -awaiting full weightingsreview as part of OBC
+In Channel Stoplogs_Central Support Structure,6,NULL
+In Channel Stoplogs_Central Support Structure,4,If structure is minor andfailure will not lead tosudden release ofhazardous flows.
+In Channel Stoplogs_Davit,NULL,NULL
+In Channel Stoplogs_Gantry,1,NULL
+In Channel Stoplogs_Gantry,5,If failure wouldcompromise operation.
+In Channel Stoplogs_Jib Crane,NULL,NULL
+In Channel Stoplogs_Ladder,3,NULL
+In Channel Stoplogs_Ladder,5,"if element is consideredcritical to access, egress"
+In Channel Stoplogs_Left Bank Wall,6,NULL
+In Channel Stoplogs_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+In Channel Stoplogs_Overhead Crane,NULL,NULL
+In Channel Stoplogs_Right Bank Wall,6,NULL
+In Channel Stoplogs_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+In Channel Stoplogs_Stoplogs and Lasherboards,9,NULL
+In Channel Stoplogs_Treads and Risers,3,NULL
+In Channel Stoplogs_Treads and Risers,7,if required foroperational access.
+In Channel Stoplogs_Winch,NULL,NULL
+Information Board_Civils,4,NULL
+Information Board_Electrical System,NULL,NULL
+Information Board_Equipment Housing,4,NULL
+Information Board_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Information Board_Equipment Mounting Board,3,NULL
+Information Board_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Information Board_Fixings,6,NULL
+Information Board_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Information Board_Foundation,9,NULL
+Information Board_Frame,6,NULL
+Information Board_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Information Board_Solar Panel,NULL,NULL
+Information Board_Wind Turbine,NULL,NULL
+Inspection Chamber_Access Strip,9,NULL
+Inspection Chamber_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Inspection Chamber_Cable and Pipe Management,4,NULL
+Inspection Chamber_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Inspection Chamber_Cover or Hatch,1,NULL
+Inspection Chamber_Drainage System,5,NULL
+Inspection Chamber_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Inspection Chamber_Equipment Mounting Board,3,NULL
+Inspection Chamber_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack of
+Inspection Chamber_Fastenings,7,NULL
+Inspection Chamber_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Inspection Chamber_Fixings,3,NULL
+Inspection Chamber_Floor,8,NULL
+Inspection Chamber_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Inspection Chamber_Frame,6,NULL
+Inspection Chamber_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Inspection Chamber_Hoist,NULL,NULL
+Inspection Chamber_Internal Features,1,NULL
+Inspection Chamber_Ladder,3,NULL
+Inspection Chamber_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Inspection Chamber_Padlock or Lock,6,NULL
+Inspection Chamber_Padlock or Lock,9,if critical to theoperation of the asset
+Inspection Chamber_Shaft,7,NULL
+Inspection Chamber_Structural Steelwork,9,NULL
+Inspection Chamber_Substructure,8,NULL
+Inspection Chamber_Substructure,9,if function /performance of theasset beingcompromised.
+Inspection Chamber_Treads and Risers,3,NULL
+Inspection Chamber_Treads and Risers,7,if required foroperational access.
+Instrumentation_Battery Charger,NULL,NULL
+Instrumentation_Cable and Pipe Management,4,NULL
+Instrumentation_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Instrumentation_Civils,4,NULL
+Instrumentation_Control Equipment,NULL,NULL
+Instrumentation_Data Logger,NULL,NULL
+Instrumentation_Datum Plates and Markers,4,NULL
+Instrumentation_Datum Plates and Markers,9,If critical for datacalibration / qualitychecks.
+Instrumentation_Display,NULL,NULL
+Instrumentation_Equipment Housing,4,NULL
+Instrumentation_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Instrumentation_Fastenings,7,NULL
+Instrumentation_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Instrumentation_Fixings,6,NULL
+Instrumentation_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Instrumentation_Interface Module,NULL,NULL
+Instrumentation_Measurement Scale,7,NULL
+Instrumentation_Measurement Scale,9,If sole means ofmeasuring a value.
+Instrumentation_Padlock or Lock,6,NULL
+Instrumentation_Padlock or Lock,9,if critical to theoperation of the asset
+Instrumentation_Sensor,7,NULL
+Instrumentation_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Instrumentation_Signal Conditioner,NULL,NULL
+Instrumentation_Signal Splitter,NULL,NULL
+Instrumentation_Stilling Tube,9,NULL
+Instrumentation_Storage Rain Gauge,NULL,NULL
+Instrumentation_Treads and Risers,3,NULL
+Instrumentation_Treads and Risers,7,if required foroperational access.
+Jetty_Access Point,9,NULL
+Jetty_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Jetty_Access Strip,9,NULL
+Jetty_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Jetty_Beams,8,NULL
+Jetty_Beams,9,If element deemed tobe load bearing
+Jetty_Bearing Piling,7,NULL
+Jetty_Bearing Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Jetty_Core,NULL,NULL
+Jetty_Datum Plates and Markers,2,NULL
+Jetty_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Jetty_Deck,7,NULL
+Jetty_Deck,9,If Deck is over water.
+Jetty_Exposed Face,7,NULL
+Jetty_Exposed Face,9,If asset is extremelyexposed.
+Jetty_Exposed Toe,5,NULL
+Jetty_Exposed Toe,8,If asset is extremelyexposed.
+Jetty_External Features,4,NULL
+Jetty_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Jetty_Fastenings,7,NULL
+Jetty_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Jetty_Ladder,3,NULL
+Jetty_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Jetty_Mast,3,NULL
+Jetty_Mast,9,If element supportsnavigation or securityequipment.
+Jetty_Mooring Point,6,NULL
+Jetty_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Jetty_Navigation Light,3,NULL
+Jetty_Padlock or Lock,6,NULL
+Jetty_Padlock or Lock,9,if critical to theoperation of the asset
+Jetty_Piling,7,NULL
+Jetty_Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Jetty_Pillar,8,NULL
+Jetty_Pillar,9,If element is critical tostructural integrity ofthe asset.
+Jetty_Post,2,NULL
+Jetty_Post,3,If element is critical forasset function
+Jetty_Retaining Wall,5,NULL
+Jetty_Retaining Wall,9,if element is requiredfor structural integrityor failure would preventoperation of the asset.
+Jetty_Service Pedestal,2,NULL
+Jetty_Sheet Piling,5,NULL
+Jetty_Sheet Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Jetty_Substructure,8,NULL
+Jetty_Substructure,9,if function /performance of theasset beingcompromised.
+Jetty_Treads and Risers,3,NULL
+Jetty_Treads and Risers,7,if required foroperational access.
+Jetty_Water Point,NULL,NULL
+Lab Building_Access Strip,9,NULL
+Lab Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Lab Building_Alternator,NULL,NULL
+Lab Building_Beams,8,NULL
+Lab Building_Beams,9,If element deemed tobe load bearing
+Lab Building_Cable and Pipe Management,4,NULL
+Lab Building_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Lab Building_Ceiling,4,NULL
+Lab Building_Civils,4,NULL
+Lab Building_Climate Control,NULL,NULL
+Lab Building_Distribution Board,NULL,NULL
+Lab Building_Distribution Network Operator Feeder,NULL,NULL
+Lab Building_Doors and Windows,6,NULL
+Lab Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Lab Building_Drainage System,5,NULL
+Lab Building_Drainage System,9,if failure could not bemitigated and would
+Lab Building_Electrical System,NULL,NULL
+Lab Building_Electricity Meter,NULL,NULL
+Lab Building_Electricity Sub Meter,NULL,NULL
+Lab Building_Equipment Mounting Board,3,NULL
+Lab Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Lab Building_External Features,4,NULL
+Lab Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Lab Building_External Walls,8,NULL
+Lab Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Lab Building_Fastenings,7,NULL
+Lab Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Lab Building_Fire Protection,NULL,NULL
+Lab Building_Fixed Fall Arrest System,NULL,NULL
+Lab Building_Fixings,3,NULL
+Lab Building_Floor,8,NULL
+Lab Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Lab Building_Foundation,9,NULL
+Lab Building_Frame,8,NULL
+Lab Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Lab Building_Fuel Cell,NULL,NULL
+Lab Building_Gantry,1,NULL
+Lab Building_Gantry,5,If failure wouldcompromise operation.
+Lab Building_Gas System,NULL,NULL
+Lab Building_Grassed Elements,1,NULL
+Lab Building_Habitat Enhancement,1,NULL
+Lab Building_Heating System,NULL,NULL
+Lab Building_Hydro Turbine,NULL,NULL
+Lab Building_Incomer,NULL,NULL
+Lab Building_Internal Features,1,NULL
+Lab Building_Internal Walls,4,NULL
+Lab Building_Internal Walls,9,If load bearing or criticalfor security.
+Lab Building_Ladder,3,NULL
+Lab Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Lab Building_Lighting,NULL,NULL
+Lab Building_Maintenance Hole,3,NULL
+Lab Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Lab Building_Padlock or Lock,6,NULL
+Lab Building_Padlock or Lock,9,if critical to theoperation of the asset
+Lab Building_Planted Elements,1,NULL
+Lab Building_Roller Shutters,6,NULL
+Lab Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Lab Building_Roof,8,NULL
+Lab Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Lab Building_Security Camera,1,NULL
+Lab Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Lab Building_Sewage Treatment System,NULL,NULL
+Lab Building_Solar Panel,NULL,NULL
+Lab Building_Substructure,8,NULL
+Lab Building_Substructure,9,if function /performance of theasset beingcompromised.
+Lab Building_Transformer,NULL,NULL
+Lab Building_Treads and Risers,3,NULL
+Lab Building_Treads and Risers,7,if required foroperational access.
+Lab Building_Uninterruptible Power Supply,NULL,NULL
+Lab Building_Ventilation System,NULL,NULL
+Lab Building_Waste Disposal System,NULL,NULL
+Lab Building_Water Supply Plumbing System,9,NULL
+Landing_Access Strip,9,NULL
+Landing_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Landing_Bearing Piling,7,NULL
+Landing_Bearing Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Landing_Buoyancy Aid,1,NULL
+Landing_Buoyancy Aid,3,if asset is accessible togeneral member of thepublic. Use variant ifhigh risk of accidentalentry into waterelement plays a safetycritical role
+Landing_Capping Beam,6,NULL
+Landing_Deck,7,NULL
+Landing_Deck,9,If Deck is over water.
+Landing_Fender,5,NULL
+Landing_Floats,7,NULL
+Landing_Floats,9,If asset is floating
+Landing_Habitat Enhancement,1,NULL
+Landing_Landing Face,7,NULL
+Landing_Landing Face,9,if exposed to theprevailingenvironmentalconditions.
+Landing_Mooring Point,6,NULL
+Landing_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Landing_Piling,7,NULL
+Landing_Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Landing_Pump Out Point,2,NULL
+Landing_Pump Out Point,9,Consider variant ifprimary purpose ofmooring is for servicingboats.
+Landing_Sheet Piling,5,NULL
+Landing_Sheet Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Landing_Treads and Risers,3,NULL
+Landing_Treads and Risers,7,if required foroperational access.
+Lock Island_Bearing Piling,8,NULL
+Lock Island_Berm,5,NULL
+Lock Island_Berm,7,If less than 3 metreswide.
+Lock Island_Capping Beam,6,NULL
+Lock Island_Capping Beam,8,If critical to thestructural integrity ofthe asset
+Lock Island_Channel Side,7,NULL
+Lock Island_Channel Side,9,If island is less than 3metres wide.
+Lock Island_High Ground,3,NULL
+Lock Island_High Ground,1,If High ground risessteeply away fromchannel side or coast
+Lock Island_Landward Face,7,NULL
+Lock Island_Landward Face,9,If steeper than 1V:3H orhas a history ofovertopping with noengineered erosionprotection.
+Lock Island_Piling,8,NULL
+Lock Island_Retaining Wall,6,NULL
+Lock Island_Retaining Wall,9,if element is requiredfor structural integrityor failure would preventoperation of the asset.
+Lock Island_Sheet Piling,8,NULL
+Lock Island_Sheet Piling,9,If element is requiredfor structural integrity.
+Lock_Access Strip,9,NULL
+Lock_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Lock_Apron,5,NULL
+Lock_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Lock_Balance Beam,9,NULL
+Lock_Balance Weight,NULL,NULL
+Lock_Cill,9,NULL
+Lock_Drive Assembly,7,NULL
+Lock_Drive Assembly,9,If there is no alternativefor operating the asset.
+Lock_Electrical System,NULL,NULL
+Lock_Frame,7,NULL
+Lock_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Lock_Gantry,1,NULL
+Lock_Gantry,5,If failure wouldcompromise operation.
+Lock_Gate Quoin,NULL,NULL
+Lock_Ladder,3,NULL
+Lock_Ladder,5,if element doesn'tcontribute to primaryfunction of the asset
+Lock_Left Bank Wall,6,NULL
+Lock_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Lock_Lock Chamber,9,NULL
+Lock_Lock Gate,9,NULL
+Lock_Lock Gate Paddle,7,NULL
+Lock_Lock Gate Paddle,9,If sole or critical meansof controlling water inthe lock.
+Lock_Right Bank Wall,6,NULL
+Lock_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Lock_Stoplogs and Lasherboards,3,NULL
+Lock_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Lock_Structural Steelwork,9,NULL
+Lock_Treads and Risers,3,NULL
+Lock_Treads and Risers,7,if required foroperational access.
+Lock_Walkway,3,NULL
+Maintenance Building_Access Strip,9,NULL
+Maintenance Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Maintenance Building_Alternator,NULL,NULL
+Maintenance Building_Beams,8,NULL
+Maintenance Building_Beams,9,If element deemed tobe load bearing
+Maintenance Building_Cable and Pipe Management,4,NULL
+Maintenance Building_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building
+Maintenance Building_Ceiling,4,NULL
+Maintenance Building_Civils,4,NULL
+Maintenance Building_Climate Control,NULL,NULL
+Maintenance Building_Datum Plates and Markers,2,NULL
+Maintenance Building_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Maintenance Building_Distribution Board,NULL,NULL
+Maintenance Building_Distribution Network Operator Feeder,NULL,NULL
+Maintenance Building_Doors and Windows,6,NULL
+Maintenance Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Maintenance Building_Drainage System,5,NULL
+Maintenance Building_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Maintenance Building_Electrical System,NULL,NULL
+Maintenance Building_Electricity Meter,NULL,NULL
+Maintenance Building_Electricity Sub Meter,NULL,NULL
+Maintenance Building_Equipment Mounting Board,3,NULL
+Maintenance Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Maintenance Building_External Features,4,NULL
+Maintenance Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Maintenance Building_External Walls,8,NULL
+Maintenance Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Maintenance Building_Fastenings,7,NULL
+Maintenance Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Maintenance Building_Fire Protection,NULL,NULL
+Maintenance Building_Fixed Fall Arrest System,NULL,NULL
+Maintenance Building_Fixings,3,NULL
+Maintenance Building_Floor,8,NULL
+Maintenance Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Maintenance Building_Foundation,9,NULL
+Maintenance Building_Frame,8,NULL
+Maintenance Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Maintenance Building_Fuel Cell,NULL,NULL
+Maintenance Building_Gas System,NULL,NULL
+Maintenance Building_Grassed Elements,1,NULL
+Maintenance Building_Habitat Enhancement,1,NULL
+Maintenance Building_Heating System,NULL,NULL
+Maintenance Building_Hydro Turbine,NULL,NULL
+Maintenance Building_Incomer,NULL,NULL
+Maintenance Building_Internal Features,1,NULL
+Maintenance Building_Internal Walls,4,NULL
+Maintenance Building_Internal Walls,9,If load bearing or criticalfor security or noisecontrol.
+Maintenance Building_Ladder,3,NULL
+Maintenance Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Maintenance Building_Lighting,NULL,NULL
+Maintenance Building_Maintenance Hole,3,NULL
+Maintenance Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Maintenance Building_Padlock or Lock,6,NULL
+Maintenance Building_Padlock or Lock,9,if critical to theoperation of the asset
+Maintenance Building_Planted Elements,1,NULL
+Maintenance Building_Roller Shutters,6,NULL
+Maintenance Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Maintenance Building_Roof,8,NULL
+Maintenance Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Maintenance Building_Security Camera,1,NULL
+Maintenance Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Maintenance Building_Sewage Treatment System,NULL,NULL
+Maintenance Building_Solar Panel,NULL,NULL
+Maintenance Building_Substructure,8,NULL
+Maintenance Building_Substructure,9,if function /performance of theasset beingcompromised.
+Maintenance Building_Transformer,NULL,NULL
+Maintenance Building_Treads and Risers,3,NULL
+Maintenance Building_Treads and Risers,7,if required foroperational access.
+Maintenance Building_Uninterruptible Power Supply,NULL,NULL
+Maintenance Building_Ventilation System,NULL,NULL
+Maintenance Building_Waste Disposal System,NULL,NULL
+Maintenance Building_Water Supply Plumbing System,9,NULL
+Mine Adit_Access Point,9,NULL
+Mine Adit_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Mine Adit_Access Strip,9,NULL
+Mine Adit_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Mine Adit_Animal Grid,2,NULL
+Mine Adit_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Mine Adit_Borehole Cap,3,NULL
+Mine Adit_Borehole Cap,9,If element is critical tothe protection ofgroundwater
+Mine Adit_Cable Management,4,NULL
+Mine Adit_Cable Management,7,If pipes carry control orpower cables
+Mine Adit_Casing,5,NULL
+Mine Adit_Casing,9,If element is critical tostructural integrity ofthe asset.
+Mine Adit_Chamber,5,NULL
+Mine Adit_Chamber,7,If element is critical foroperation.
+Mine Adit_Climate Control,NULL,NULL
+Mine Adit_Common Controls,NULL,NULL
+Mine Adit_Cover or Door,1,NULL
+Mine Adit_Datum Plates and Markers,2,NULL
+Mine Adit_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Mine Adit_Distribution Board,NULL,NULL
+Mine Adit_Distribution Network Operator Feeder,NULL,NULL
+Mine Adit_Electrical System,NULL,NULL
+Mine Adit_Electricity Sub Meter,NULL,NULL
+Mine Adit_Equipment Housing,4,NULL
+Mine Adit_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Mine Adit_Expansion Joint,5,NULL
+Mine Adit_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Mine Adit_External Walls,6,NULL
+Mine Adit_External Walls,9,If element deemed tobe load bearing orrequired for security
+Mine Adit_Fastenings,7,NULL
+Mine Adit_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Mine Adit_Fixings,3,NULL
+Mine Adit_Floor,8,NULL
+Mine Adit_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Mine Adit_Foundation,9,NULL
+Mine Adit_Frame,8,NULL
+Mine Adit_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Mine Adit_Grassed Elements,1,NULL
+Mine Adit_Incomer,NULL,NULL
+Mine Adit_Ladder,3,NULL
+Mine Adit_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Mine Adit_Lifting Chains and Sprockets,NULL,NULL
+Mine Adit_Lighting,NULL,NULL
+Mine Adit_Maintenance Hole,3,NULL
+Mine Adit_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Mine Adit_Measurement Scale,1,NULL
+Mine Adit_Padlock or Lock,6,NULL
+Mine Adit_Padlock or Lock,9,if critical to theoperation of the asset
+Mine Adit_Pipe,6,NULL
+Mine Adit_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Mine Adit_Pipe Flange,6,NULL
+Mine Adit_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Adit_Pipe Sleeve,3,NULL
+Mine Adit_Pipe T Piece,6,NULL
+Mine Adit_Pipe T Piece,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Adit_Pipe Valve,6,NULL
+Mine Adit_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Adit_Pipework,6,NULL
+Mine Adit_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Adit_Planted Elements,1,NULL
+Mine Adit_Relay Control,NULL,NULL
+Mine Adit_Seals,5,NULL
+Mine Adit_Seals,7,If element is critical forasset function
+Mine Adit_Shaft,7,NULL
+Mine Adit_Solar Panel,NULL,NULL
+Mine Adit_Struts and Bracing,7,NULL
+Mine Adit_Substructure,8,NULL
+Mine Adit_Substructure,9,if function /performance of theasset beingcompromised.
+Mine Adit_Transformer,NULL,NULL
+Mine Adit_Treads and Risers,3,NULL
+Mine Adit_Treads and Risers,7,if required foroperational access.
+Mine Adit_Vertical Extended Spindle,NULL,NULL
+Mine Adit_Wind Turbine,NULL,NULL
+Mine Shaft_Access Point,9,NULL
+Mine Shaft_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Mine Shaft_Access Strip,9,NULL
+Mine Shaft_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Mine Shaft_Animal Grid,2,NULL
+Mine Shaft_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Mine Shaft_Borehole Cap,3,NULL
+Mine Shaft_Borehole Cap,9,If element is critical tothe protection ofgroundwater
+Mine Shaft_Cable Management,4,NULL
+Mine Shaft_Cable Management,7,If pipes carry control orpower cables
+Mine Shaft_Casing,5,NULL
+Mine Shaft_Casing,9,If element is critical tostructural integrity ofthe asset.
+Mine Shaft_Chamber,5,NULL
+Mine Shaft_Chamber,7,If element is critical foroperation.
+Mine Shaft_Climate Control,NULL,NULL
+Mine Shaft_Common Controls,NULL,NULL
+Mine Shaft_Cover or Door,1,NULL
+Mine Shaft_Datum Plates and Markers,2,NULL
+Mine Shaft_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Mine Shaft_Distribution Board,NULL,NULL
+Mine Shaft_Distribution Network Operator Feeder,NULL,NULL
+Mine Shaft_Electrical System,NULL,NULL
+Mine Shaft_Electricity Sub Meter,NULL,NULL
+Mine Shaft_Equipment Housing,4,NULL
+Mine Shaft_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Mine Shaft_Expansion Joint,5,NULL
+Mine Shaft_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Mine Shaft_External Walls,6,NULL
+Mine Shaft_External Walls,9,If element deemed tobe load bearing orrequired for security
+Mine Shaft_Fastenings,7,NULL
+Mine Shaft_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Mine Shaft_Fixings,3,NULL
+Mine Shaft_Floor,8,NULL
+Mine Shaft_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Mine Shaft_Foundation,9,NULL
+Mine Shaft_Frame,8,NULL
+Mine Shaft_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Mine Shaft_Grassed Elements,1,NULL
+Mine Shaft_Incomer,NULL,NULL
+Mine Shaft_Ladder,3,NULL
+Mine Shaft_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Mine Shaft_Lifting Chains and Sprockets,NULL,NULL
+Mine Shaft_Lighting,NULL,NULL
+Mine Shaft_Maintenance Hole,3,NULL
+Mine Shaft_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Mine Shaft_Measurement Scale,1,NULL
+Mine Shaft_Padlock or Lock,6,NULL
+Mine Shaft_Padlock or Lock,9,if critical to theoperation of the asset
+Mine Shaft_Pipe,6,NULL
+Mine Shaft_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Mine Shaft_Pipe Flange,6,NULL
+Mine Shaft_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Shaft_Pipe Sleeve,3,NULL
+Mine Shaft_Pipe T Piece,6,NULL
+Mine Shaft_Pipe T Piece,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Shaft_Pipe Valve,6,NULL
+Mine Shaft_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Shaft_Pipework,6,NULL
+Mine Shaft_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Mine Shaft_Planted Elements,1,NULL
+Mine Shaft_Relay Control,NULL,NULL
+Mine Shaft_Seals,5,NULL
+Mine Shaft_Seals,7,If element is critical forasset function
+Mine Shaft_Shaft,7,NULL
+Mine Shaft_Solar Panel,NULL,NULL
+Mine Shaft_Struts and Bracing,7,NULL
+Mine Shaft_Substructure,8,NULL
+Mine Shaft_Substructure,9,if function /performance of theasset beingcompromised.
+Mine Shaft_Transformer,NULL,NULL
+Mine Shaft_Treads and Risers,3,NULL
+Mine Shaft_Treads and Risers,7,if required foroperational access.
+Mine Shaft_Vertical Extended Spindle,NULL,NULL
+Mine Shaft_Wind Turbine,NULL,NULL
+Monitoring Building_Access Strip,9,NULL
+Monitoring Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Monitoring Building_Alternator,NULL,NULL
+Monitoring Building_Beams,8,NULL
+Monitoring Building_Beams,9,If element deemed tobe load bearing
+Monitoring Building_Cable and Pipe Management,4,NULL
+Monitoring Building_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building
+Monitoring Building_Ceiling,4,NULL
+Monitoring Building_Civils,4,NULL
+Monitoring Building_Climate Control,NULL,NULL
+Monitoring Building_Datum Plates and Markers,4,NULL
+Monitoring Building_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Monitoring Building_Distribution Board,NULL,NULL
+Monitoring Building_Distribution Network Operator Feeder,NULL,NULL
+Monitoring Building_Doors and Windows,6,NULL
+Monitoring Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Monitoring Building_Drainage System,5,NULL
+Monitoring Building_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Monitoring Building_Electrical System,NULL,NULL
+Monitoring Building_Electricity Meter,NULL,NULL
+Monitoring Building_Electricity Sub Meter,NULL,NULL
+Monitoring Building_Equipment Mounting Board,3,NULL
+Monitoring Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Monitoring Building_External Features,4,NULL
+Monitoring Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Monitoring Building_External Walls,8,NULL
+Monitoring Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Monitoring Building_Fastenings,7,NULL
+Monitoring Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Monitoring Building_Fire Protection,NULL,NULL
+Monitoring Building_Fixed Fall Arrest System,NULL,NULL
+Monitoring Building_Fixings,3,NULL
+Monitoring Building_Floor,8,NULL
+Monitoring Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Monitoring Building_Foundation,9,NULL
+Monitoring Building_Frame,8,NULL
+Monitoring Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Monitoring Building_Fuel Cell,NULL,NULL
+Monitoring Building_Gas System,NULL,NULL
+Monitoring Building_Grassed Elements,1,NULL
+Monitoring Building_Habitat Enhancement,1,NULL
+Monitoring Building_Heating System,NULL,NULL
+Monitoring Building_Hydro Turbine,NULL,NULL
+Monitoring Building_Incomer,NULL,NULL
+Monitoring Building_Internal Features,1,NULL
+Monitoring Building_Internal Walls,4,NULL
+Monitoring Building_Internal Walls,9,If load bearing or criticalfor security.
+Monitoring Building_Ladder,3,NULL
+Monitoring Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Monitoring Building_Lighting,NULL,NULL
+Monitoring Building_Maintenance Hole,3,NULL
+Monitoring Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Monitoring Building_Padlock or Lock,6,NULL
+Monitoring Building_Padlock or Lock,9,if critical to theoperation of the asset
+Monitoring Building_Planted Elements,1,NULL
+Monitoring Building_Roller Shutters,6,NULL
+Monitoring Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Monitoring Building_Roof,8,NULL
+Monitoring Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Monitoring Building_Security Camera,1,NULL
+Monitoring Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Monitoring Building_Sewage Treatment System,NULL,NULL
+Monitoring Building_Solar Panel,NULL,NULL
+Monitoring Building_Substructure,8,NULL
+Monitoring Building_Substructure,9,if function /performance of theasset beingcompromised.
+Monitoring Building_Transformer,NULL,NULL
+Monitoring Building_Treads and Risers,3,NULL
+Monitoring Building_Treads and Risers,7,if required foroperational access.
+Monitoring Building_Uninterruptible Power Supply,NULL,NULL
+Monitoring Building_Ventilation System,NULL,NULL
+Monitoring Building_Waste Disposal System,NULL,NULL
+Monitoring Building_Water Supply Plumbing System,7,NULL
+Monitoring Building_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Mooring_Access Strip,6,NULL
+Mooring_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Mooring_Anchor and Chain,6,NULL
+Mooring_Anchor and Chain,9,If sole restraint
+Mooring_Bearing Piling,7,NULL
+Mooring_Bearing Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Mooring_Buoyancy Aid,1,NULL
+Mooring_Buoyancy Aid,3,if asset is accessible togeneral member of thepublic. Use variant ifelement plays a safetycritical role
+Mooring_Capping Beam,6,NULL
+Mooring_Channel Side,7,NULL
+Mooring_Channel Side,9,If mooring is less than 3metres wide.
+Mooring_Deck,7,NULL
+Mooring_Deck,9,If Deck is over water.
+Mooring_Fender,5,NULL
+Mooring_Floats,7,NULL
+Mooring_Floats,9,If floats are essential tothe stability of themooring.
+Mooring_Gantry,1,NULL
+Mooring_Gantry,5,If failure wouldcompromise operation.
+Mooring_Guide Pile,8,NULL
+Mooring_Guide Pile,9,Do not use variant -awaiting full weightingsreview as part of OBC
+Mooring_Mooring Pile,7,NULL
+Mooring_Mooring Pile,9,If element categorisedas Critical to overallasset function
+Mooring_Mooring Point,6,NULL
+Mooring_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Mooring_Navigation Light,3,NULL
+Mooring_Piling,7,NULL
+Mooring_Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Mooring_Pump Out Point,2,NULL
+Mooring_Pump Out Point,9,Consider variant ifprimary purpose ofmooring is for servicingboats.
+Mooring_Service Pedestal,3,NULL
+Mooring_Sheet Piling,7,NULL
+Mooring_Sheet Piling,9,If mooring is less than 3metres wide.
+Mooring_Slope,3,NULL
+Mooring_Treads and Risers,3,NULL
+Mooring_Treads and Risers,7,if required foroperational access.
+Mooring_Water Point,NULL,NULL
+Motor Control Centre Controls_Common Controls,NULL,NULL
+Motor Control Centre Controls_Distribution Board,NULL,NULL
+Motor Control Centre Controls_Distribution Network Operator Feeder,NULL,NULL
+Motor Control Centre Controls_Electrical System,NULL,NULL
+Motor Control Centre Controls_Electricity Meter,NULL,NULL
+Motor Control Centre Controls_Electricity Sub Meter,NULL,NULL
+Motor Control Centre Controls_Incomer,NULL,NULL
+Motor Control Centre Controls_Modem,NULL,NULL
+Motor Control Centre Controls_Network,NULL,NULL
+Motor Control Centre Controls_Padlock or Lock,6,NULL
+Motor Control Centre Controls_Padlock or Lock,9,if critical to theoperation of the asset
+Motor Control Centre Controls_Programmable Logic Computers,NULL,NULL
+Motor Control Centre Controls_Relay Control,NULL,NULL
+Motor Control Centre Controls_Router,NULL,NULL
+Motor Control Centre Controls_Starter,NULL,NULL
+Motor Control Centre Controls_Transformer,NULL,NULL
+Mudflats_Access Strip,3,NULL
+Natural High Ground_Berm,1,NULL
+Natural High Ground_Channel Side,5,NULL
+Natural High Ground_Channel Side,7,If less than 3 metreshorizontally from asset.
+Natural High Ground_High Ground,3,NULL
+Natural High Ground_High Ground,1,If High ground risessteeply away fromchannel side or coast
+Natural High Ground_Shore,1,NULL
+Natural High Ground_Shore,5,If the Shore provideserosion protection tothe channel side.
+Natural Spring_Channel Bed,7,NULL
+Natural Spring_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Natural Spring_Left Bank,7,NULL
+Natural Spring_Left Bank,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement functionor if failure would blocka significant proportionof the channel.
+Natural Spring_Left Berm,5,NULL
+Natural Spring_Left Berm,7,If element is requiredfor access or providesstructural support /erosion protection toadjacent structures.
+Natural Spring_Right Bank,7,NULL
+Natural Spring_Right Bank,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement functionor if failure would blocka significant proportionof the channel.
+Natural Spring_Right Berm,5,NULL
+Natural Spring_Right Berm,7,If element is requiredfor access or providesstructural support /erosion protection toadjacent structures.
+Navigation Boom_Anchor and Chain,9,NULL
+Navigation Boom_Central Support Structure,9,NULL
+Navigation Boom_Central Support Structure,4,If asset does notperform a safetyfunction (e.g. controlsaccess to private watersor marinas).
+Navigation Boom_Floats,9,NULL
+Navigation Boom_Floats,4,If sole function is toprotect piles.
+Navigation Boom_Gantry,1,NULL
+Navigation Boom_Gantry,5,If failure wouldcompromise operation.
+Navigation Boom_Guide Pile,9,NULL
+Navigation Boom_Guide Pile,7,If single guide pile.
+Navigation Boom_Ladder,3,NULL
+Navigation Boom_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Navigation Boom_Left Bank Wall,6,NULL
+Navigation Boom_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Navigation Boom_Post,9,NULL
+Navigation Boom_Right Bank Wall,6,NULL
+Navigation Boom_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Navigation Boom_Ropes,9,NULL
+Navigation Signage_Civils,4,NULL
+Navigation Signage_Electrical System,NULL,NULL
+Navigation Signage_Equipment Housing,4,NULL
+Navigation Signage_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Navigation Signage_Foghorn,NULL,NULL
+Navigation Signage_Navigation Light,3,NULL
+Navigation Signage_Post,8,NULL
+Navigation Signage_Post,9,If element is critical forasset function
+Navigation Signage_Sign,7,NULL
+Navigation Signage_Solar Panel,NULL,NULL
+Navigation Signage_Wind Turbine,NULL,NULL
+Office Building_Access Strip,9,NULL
+Office Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Office Building_Alternator,NULL,NULL
+Office Building_Beams,8,NULL
+Office Building_Beams,9,If element deemed tobe load bearing
+Office Building_Cable and Pipe Management,4,NULL
+Office Building_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building
+Office Building_Ceiling,4,NULL
+Office Building_Climate Control,NULL,NULL
+Office Building_Datum Plates and Markers,2,NULL
+Office Building_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Office Building_Distribution Board,NULL,NULL
+Office Building_Distribution Network Operator Feeder,NULL,NULL
+Office Building_Doors and Windows,6,NULL
+Office Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Office Building_Drainage System,5,NULL
+Office Building_Drainage System,9,if failure could not bemitigated and would
+Office Building_Electrical System,NULL,NULL
+Office Building_Electricity Meter,NULL,NULL
+Office Building_Electricity Sub Meter,NULL,NULL
+Office Building_Equipment Mounting Board,3,NULL
+Office Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Office Building_External Features,4,NULL
+Office Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Office Building_External Walls,8,NULL
+Office Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Office Building_Fastenings,7,NULL
+Office Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Office Building_Fire Protection,NULL,NULL
+Office Building_Fixed Fall Arrest System,NULL,NULL
+Office Building_Fixings,3,NULL
+Office Building_Floor,8,NULL
+Office Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Office Building_Foundation,9,NULL
+Office Building_Frame,8,NULL
+Office Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Office Building_Fuel Cell,NULL,NULL
+Office Building_Gas System,NULL,NULL
+Office Building_Grassed Elements,1,NULL
+Office Building_Habitat Enhancement,1,NULL
+Office Building_Heating System,NULL,NULL
+Office Building_Hydro Turbine,NULL,NULL
+Office Building_Incomer,NULL,NULL
+Office Building_Internal Features,1,NULL
+Office Building_Internal Walls,4,NULL
+Office Building_Internal Walls,9,If load bearing or criticalfor security.
+Office Building_Ladder,3,NULL
+Office Building_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Office Building_Lighting,NULL,NULL
+Office Building_Maintenance Hole,3,NULL
+Office Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Office Building_Padlock or Lock,6,NULL
+Office Building_Padlock or Lock,9,if critical to theoperation of the asset
+Office Building_Planted Elements,1,NULL
+Office Building_Roller Shutters,6,NULL
+Office Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Office Building_Roof,8,NULL
+Office Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Office Building_Security Camera,1,NULL
+Office Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Office Building_Sewage Treatment System,NULL,NULL
+Office Building_Solar Panel,NULL,NULL
+Office Building_Substructure,8,NULL
+Office Building_Substructure,9,if function /performance of theasset beingcompromised.
+Office Building_Transformer,NULL,NULL
+Office Building_Treads and Risers,3,NULL
+Office Building_Treads and Risers,7,if required foroperational access.
+Office Building_Uninterruptible Power Supply,NULL,NULL
+Office Building_Ventilation System,NULL,NULL
+Office Building_Waste Disposal System,NULL,NULL
+Office Building_Water Supply Plumbing System,9,NULL
+Open Channel_Channel Bed,7,NULL
+Open Channel_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Open Channel_Fish Guidance and Deterrents,NULL,NULL
+Open Channel_Gantry,1,NULL
+Open Channel_Gantry,5,If failure wouldcompromise operation.
+Open Channel_Left Bank,7,NULL
+Open Channel_Left Bank,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement functionor if failure would block
+Open Channel_Left Berm,5,NULL
+Open Channel_Left Berm,7,If element is requiredfor access or providesstructural support /erosion protection toadjacent structures.
+Open Channel_Right Bank,7,NULL
+Open Channel_Right Bank,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement functionor if failure would blocka significant proportionof the channel.
+Open Channel_Right Berm,5,NULL
+Open Channel_Right Berm,7,If element is requiredfor access or providesstructural support /erosion protection toadjacent structures.
+Open Channel_Silt Trap,1,NULL
+Open Channel_Silt Trap,5,"If watercourse is steep,upland and/or carriesheavy sediment load."
+Outfall_Actuator,NULL,NULL
+Outfall_Apron,5,NULL
+Outfall_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Outfall_Balance Weight,NULL,NULL
+Outfall_Dampers,NULL,NULL
+Outfall_Davit,NULL,NULL
+Outfall_Downstream Headwall,8,NULL
+Outfall_Downstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport anembankment orinfrastructure above."
+Outfall_Fixed Fall Arrest System,NULL,NULL
+Outfall_Flap Valve,9,NULL
+Outfall_Flap Valve,7,If a secondary nonreturn valve or penstockis installed.
+Outfall_Frame,7,NULL
+Outfall_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Outfall_Gantry,1,NULL
+Outfall_Gantry,5,If failure wouldcompromise operation.
+Outfall_Jib Crane,NULL,NULL
+Outfall_Ladder,3,NULL
+Outfall_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Outfall_Motor,NULL,NULL
+Outfall_Overhead Crane,NULL,NULL
+Outfall_Pet Flap,4,NULL
+Outfall_Pet Flap,1,"If opening is small andfailure would not affectprimary function (e.g.,increase flood risk)."
+Outfall_Pipe,6,NULL
+Outfall_Pipe,9,If full functionality ofthe assets is dependentsolely on the pipe beingassessed.
+Outfall_Springs,NULL,NULL
+Outfall_Stoplogs and Lasherboards,3,NULL
+Outfall_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activities
+Outfall_Treads and Risers,3,NULL
+Outfall_Treads and Risers,7,if required foroperational access.
+Outfall_Upstream Headwall,8,NULL
+Outfall_Upstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport an"
+Outfall_Winch,NULL,NULL
+Pier_Access Point,9,NULL
+Pier_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Pier_Access Strip,9,NULL
+Pier_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Pier_Beams,8,NULL
+Pier_Beams,9,If element deemed tobe load bearing.
+Pier_Datum Plates and Markers,2,NULL
+Pier_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Pier_Deck,7,NULL
+Pier_Deck,9,If Deck is over water.
+Pier_External Features,4,NULL
+Pier_External Features,6,If feature protectsstructural elementsfrom deterioration orrequired for security.
+Pier_Fastenings,7,NULL
+Pier_Fastenings,1,If item secured and itdoes not directlycontribute towards theperformance of theassets.
+Pier_Ladder,3,NULL
+Pier_Ladder,5,"If element is consideredcritical to access, egressor security or to theoverall asset function."
+Pier_Mast,3,NULL
+Pier_Mast,9,If element supportsnavigation or securityequipment.
+Pier_Mooring Point,6,NULL
+Pier_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access.
+Pier_Navigation Light,3,NULL
+Pier_Padlock or Lock,6,NULL
+Pier_Padlock or Lock,9,If critical to theoperation of the asset.
+Pier_Pillar,8,NULL
+Pier_Pillar,9,If element is critical tostructural integrity ofthe asset.
+Pier_Post,2,NULL
+Pier_Post,3,If element is critical forasset function.
+Pier_Substructure,8,NULL
+Pier_Substructure,9,If function /performance of theasset beingcompromised.
+Piezometer_Access Point,6,NULL
+Piezometer_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Piezometer_Access Strip,6,NULL
+Piezometer_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Piezometer_Animal Grid,2,NULL
+Piezometer_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage.
+Piezometer_Control Equipment,NULL,NULL
+Piezometer_Cover or Hatch,1,NULL
+Piezometer_Data Logger,NULL,NULL
+Piezometer_Datum Plates and Markers,4,NULL
+Piezometer_Datum Plates and Markers,7,If element is critical fordata calibration /quality checks.
+Piezometer_Davit,NULL,NULL
+Piezometer_Daymark,3,NULL
+Piezometer_Equipment Housing,4,NULL
+Piezometer_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Piezometer_Fastenings,7,NULL
+Piezometer_Fastenings,1,If item secured and itdoes not directlycontribute towards theperformance of theassets.
+Piezometer_Fixings,3,NULL
+Piezometer_Foundation,9,NULL
+Piezometer_Kerbs,1,NULL
+Piezometer_Maintenance Hole,3,NULL
+Piezometer_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Piezometer_Measurement Scale,7,NULL
+Piezometer_Measurement Scale,9,If sole means ofmeasuring a value.
+Piezometer_Outstation,NULL,NULL
+Piezometer_Sensor,7,NULL
+Piezometer_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration.
+Piezometer_Treads and Risers,3,NULL
+Piezometer_Treads and Risers,7,If required foroperational access.
+Precipitation Compound_Access Point,9,NULL
+Precipitation Compound_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Precipitation Compound_Access Strip,6,NULL
+Precipitation Compound_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Precipitation Compound_Animal Grid,2,NULL
+Precipitation Compound_Animal Grid,6,If functioning of theAsset could be directly
+Precipitation Compound_Central Well,9,NULL
+Precipitation Compound_Civils,4,NULL
+Precipitation Compound_Equipment Housing,4,NULL
+Precipitation Compound_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Precipitation Compound_Foundation,9,NULL
+Precipitation Compound_Kerbs,1,NULL
+Precipitation Compound_Maintenance Hole,3,NULL
+Precipitation Compound_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Precipitation Compound_Measurement Scale,7,NULL
+Precipitation Compound_Measurement Scale,9,If sole means ofmeasuring a value.
+Precipitation Compound_Outstation,NULL,NULL
+Precipitation Compound_Padlock or Lock,6,NULL
+Precipitation Compound_Padlock or Lock,9,If critical to theoperation of the asset.
+Precipitation Compound_Solar Panel,NULL,NULL
+Precipitation Compound_Treads and Risers,3,NULL
+Precipitation Compound_Treads and Risers,7,If required foroperational access.
+Precipitation Compound_Turf Wall,9,NULL
+Precipitation Compound_Wind Turbine,NULL,NULL
+Pressure System Assembly_Bellows,NULL,NULL
+Pressure System Assembly_Common Controls,NULL,NULL
+Pressure System Assembly_Draindown Fountain,NULL,NULL
+Pressure System Assembly_Filter or Strainer,NULL,NULL
+Pressure System Assembly_Motor,NULL,NULL
+Pressure System Assembly_Pipework,6,NULL
+Pressure System Assembly_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Pressure System Assembly_Pressure Storage Vessel,NULL,NULL
+Pressure System Assembly_Pressure System,NULL,NULL
+Pressure System Assembly_Pressure System Valves,NULL,NULL
+Pressure System Assembly_Pump,NULL,NULL
+Pressure System Assembly_Sensor,7,NULL
+Pressure System Assembly_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Promenade_Balustrade,4,NULL
+Promenade_Balustrade,7,If element required forsafe operation.
+Promenade_Fill,NULL,NULL
+Promenade_Foundation,9,NULL
+Promenade_High Ground,3,NULL
+Promenade_High Ground,1,If High ground risessteeply away fromchannel side or coast
+Promenade_Road,3,NULL
+Promenade_Road,9,"If critical to thefunctioning of the asset,i.e. there is noalternative access."
+PSRA Tree Site_Tree,1,NULL
+PSRA Tree Site_Tree,5,If critical to PRSAmeasures at the site.
+PSRA Tree Site_Tree Group,1,NULL
+PSRA Tree Site_Tree Group,5,If critical to PRSAmeasures at the site.
+Public Safety Control System_Edge Marking,9,NULL
+Public Safety Control System_Fencing,9,NULL
+Public Safety Control System_Hedgerow or Planting,3,NULL
+Public Safety Control System_Hedgerow or Planting,9,If element categorisedas Critical to overallasset function
+Public Safety Control System_Navigation Markings,9,NULL
+Public Safety Control System_Padlock or Lock,6,NULL
+Public Safety Control System_Padlock or Lock,9,if critical to theoperation of the asset
+Public Safety Control System_PSRA Access,6,NULL
+Public Safety Control System_PSRA Access,9,if critic to preventingpublic access to the siteor there is noalternative access foroperational staff.
+Public Safety Control System_PSRA Gate,6,NULL
+Public Safety Control System_PSRA Gate,9,if critic to preventingpublic access to the siteor there is noalternative access foroperational staff.
+Public Safety Control System_PSRA Screen,9,NULL
+Public Safety Control System_PSRA Signage,4,NULL
+Public Safety Control System_PSRA Signage,6,If the only signage andnot reinforced by othercontrol measures.
+Public Safety Control System_Public Safety Alert Device,1,NULL
+Public Safety Control System_Rescue Equipment,9,NULL
+Public Safety Control System_Safety Boom,9,NULL
+Public Safety Control System_Safety Screen,9,NULL
+Public Safety Control System_Security Barrier,6,NULL
+Public Safety Control System_Security Barrier,9,if critic to preventingunauthorised access or
+Public Safety Control System_Security Camera,6,NULL
+Public Safety Control System_Security Camera,9,if the asset has noalternative systems orsecurity cameras toidentify intrusion orcriminal activity
+Pump Assembly_Actuator,NULL,NULL
+Pump Assembly_Bellows,NULL,NULL
+Pump Assembly_Cathodic Protection,NULL,NULL
+Pump Assembly_Dampers,NULL,NULL
+Pump Assembly_Draindown Fountain,NULL,NULL
+Pump Assembly_Electricity Meter,NULL,NULL
+Pump Assembly_Electricity Sub Meter,NULL,NULL
+Pump Assembly_Filter or Strainer,NULL,NULL
+Pump Assembly_Gearbox,NULL,NULL
+Pump Assembly_Lifting Chains and Sprockets,NULL,NULL
+Pump Assembly_Motor,NULL,NULL
+Pump Assembly_Pipe Joint,6,NULL
+Pump Assembly_Pipe Joint,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Pump Assembly_Pipework,6,NULL
+Pump Assembly_Pipework,9,if on a pipe that iscritical to the asset
+Pump Assembly_Pump,NULL,NULL
+Pump Assembly_Pump Valves,NULL,NULL
+Pump Assembly_Sensor,7,NULL
+Pump Assembly_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Pump Assembly_Springs,NULL,NULL
+Pump Assembly_Surge Vessel,NULL,NULL
+Pump Assembly_Vertical Extended Spindle,NULL,NULL
+Pump House_Access Strip,6,NULL
+Pump House_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Pump House_Actuator,NULL,NULL
+Pump House_Alternator,NULL,NULL
+Pump House_Animal Grid,2,NULL
+Pump House_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Pump House_Automation Interface,NULL,NULL
+Pump House_Band Screen,7,NULL
+Pump House_Band Screen,9,If primary function ofasset is fishmanagement e.g. Fishor Eel barrier.
+Pump House_Beams,8,NULL
+Pump House_Beams,9,If element deemed tobe load bearing
+Pump House_Cable and Pipe Management,4,NULL
+Pump House_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Pump House_Ceiling,4,NULL
+Pump House_Chain Blocks,NULL,NULL
+Pump House_Chamber,5,NULL
+Pump House_Chamber,9,If element is critical foroperation.
+Pump House_Civils,4,NULL
+Pump House_Climate Control,NULL,NULL
+Pump House_Data Logger,NULL,NULL
+Pump House_Datum Plates and Markers,2,NULL
+Pump House_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Pump House_Davit,NULL,NULL
+Pump House_Distribution Board,NULL,NULL
+Pump House_Distribution Network Operator Feeder,NULL,NULL
+Pump House_Doors and Windows,6,NULL
+Pump House_Doors and Windows,9,If element is critical foraccess/egress/security
+Pump House_Drainage System,5,NULL
+Pump House_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Pump House_Electrical System,NULL,NULL
+Pump House_Electricity Meter,NULL,NULL
+Pump House_Electricity Sub Meter,NULL,NULL
+Pump House_Equipment Housing,4,NULL
+Pump House_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Pump House_Equipment Mounting Board,3,NULL
+Pump House_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Pump House_External Features,4,NULL
+Pump House_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Pump House_External Walls,8,NULL
+Pump House_External Walls,9,If element deemed tobe load bearing orrequired for security
+Pump House_Fastenings,7,NULL
+Pump House_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Pump House_Fire Protection,1,NULL
+Pump House_Fixed Fall Arrest System,NULL,NULL
+Pump House_Fixings,3,NULL
+Pump House_Floor,8,NULL
+Pump House_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Pump House_Foundation,9,NULL
+Pump House_Frame,8,NULL
+Pump House_Frame,9,If structure is of majorsignificance and failure
+Pump House_Fuel Cell,NULL,NULL
+Pump House_Gantry,1,NULL
+Pump House_Gantry,5,If failure wouldcompromise operation.
+Pump House_Gas System,NULL,NULL
+Pump House_Grassed Elements,1,NULL
+Pump House_Habitat Enhancement,1,NULL
+Pump House_Heating System,NULL,NULL
+Pump House_Hydro Turbine,NULL,NULL
+Pump House_Incomer,NULL,NULL
+Pump House_Internal Features,1,NULL
+Pump House_Internal Walls,4,NULL
+Pump House_Internal Walls,9,If load bearing or criticalfor security or noisecontrol.
+Pump House_Jib Crane,NULL,NULL
+Pump House_Kerbs,1,NULL
+Pump House_Ladder,3,NULL
+Pump House_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Pump House_Lighting,NULL,NULL
+Pump House_Maintenance Hole,3,NULL
+Pump House_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Pump House_Network,NULL,NULL
+Pump House_Outlet,9,NULL
+Pump House_Overhead Crane,NULL,NULL
+Pump House_Padlock or Lock,6,NULL
+Pump House_Padlock or Lock,9,if critical to theoperation of the asset
+Pump House_Planted Elements,1,NULL
+Pump House_Roller Shutters,6,NULL
+Pump House_Roller Shutters,9,If element is critical foraccess/egress/security
+Pump House_Roof,8,NULL
+Pump House_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Pump House_Ropes,3,NULL
+Pump House_Ropes,6,If required for routineinspection /maintenance activities
+Pump House_Router,NULL,NULL
+Pump House_Security Camera,1,NULL
+Pump House_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element of
+Pump House_Sewage Treatment System,NULL,NULL
+Pump House_Solar Panel,NULL,NULL
+Pump House_Stoplogs and Lasherboards,3,NULL
+Pump House_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activitiesactivities
+Pump House_Structural Steelwork,9,NULL
+Pump House_Struts and Bracing,7,NULL
+Pump House_Substructure,8,NULL
+Pump House_Substructure,9,if function /performance of theasset beingcompromised.
+Pump House_Thrust Pit,7,NULL
+Pump House_Thrust Pit,9,if function /performance of theasset beingcompromised.
+Pump House_TopMark,3,NULL
+Pump House_Transformer,NULL,NULL
+Pump House_Treads and Risers,3,NULL
+Pump House_Treads and Risers,7,if required foroperational access.
+Pump House_Uninterruptible Power Supply,NULL,NULL
+Pump House_Ventilation System,NULL,NULL
+Pump House_Waste Disposal System,NULL,NULL
+Pump House_Water Supply Plumbing System,7,NULL
+Pump House_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Pump House_Winch,NULL,NULL
+Pump House_Wind Turbine,NULL,NULL
+Quay_Bearing Piling,7,NULL
+Quay_Bearing Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Quay_Capping Beam,6,NULL
+Quay_Davit,NULL,NULL
+Quay_Deck,7,NULL
+Quay_Deck,9,If Deck is over water.
+Quay_Exposed Face,7,NULL
+Quay_Exposed Face,9,If asset is extremelyexposed.
+Quay_Face Protection,7,NULL
+Quay_Gantry,1,NULL
+Quay_Gantry,5,If failure wouldcompromise operation.
+Quay_Jib Crane,NULL,NULL
+Quay_Ladder,3,NULL
+Quay_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Quay_Lock Gate,9,NULL
+Quay_Mooring Point,6,NULL
+Quay_Mooring Point,9,If element is asingle/only mooring
+Quay_Overhead Crane,NULL,NULL
+Quay_Pile Capping,6,NULL
+Quay_Pile Capping,8,If element is critical tostructural stability ofthe asset.
+Quay_Piling,7,NULL
+Quay_Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Quay_Quay Face,7,NULL
+Quay_Quay Face,9,Depending onprevailingconditions/exposure
+Quay_Roundhead,5,NULL
+Quay_Roundhead,7,If asset is extremelyexposed.
+Quay_Service Pedestal,2,NULL
+Quay_Sheet Piling,5,NULL
+Quay_Sheet Piling,8,If element deemed tobe structurallysignificant orcontributes to flood riskmanagement.
+Quay_Shore,5,NULL
+Quay_Shore,8,If the Shore providesstructural stability orerosion protection tostructures that form theAsset.
+Quay_Stem,7,NULL
+Quay_Stem,9,If Quay is perpendicular(right angle) and lessthan 3 metres wide.
+Quay_Water Point,NULL,NULL
+Ramp_Apron,5,NULL
+Ramp_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Ramp_Balustrade,4,NULL
+Ramp_Balustrade,7,If element required forsafe operation.
+Ramp_Bearing Piling,6,NULL
+Ramp_Bearing Piling,9,If element is requiredfor structural integrity.
+Ramp_Bollard,3,NULL
+Ramp_Bollard,6,If element plays a safetycritical role
+Ramp_Handrail,4,NULL
+Ramp_Handrail,7,If element required forsafe operation.
+Ramp_Navigation Light,3,NULL
+Ramp_Piling,6,NULL
+Ramp_Piling,9,If element is requiredfor structural integrity.
+Ramp_Retaining Wall,6,NULL
+Ramp_Retaining Wall,9,if failure prevents theoperation of the asset
+Ramp_Slope,6,NULL
+Ramp_Slope,9,If element critical tooverall asset function.
+Ramp_Wheel Stop,3,NULL
+Ramp_Wheel Stop,6,If element categorisedas Critical to overallasset function
+Ramp_Winch,NULL,NULL
+Residential Building_Access Strip,9,NULL
+Residential Building_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Residential Building_Alternator,NULL,NULL
+Residential Building_Animal Grid,2,NULL
+Residential Building_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Residential Building_Balustrade,4,NULL
+Residential Building_Balustrade,7,If element required forsafe operation.
+Residential Building_Beams,8,NULL
+Residential Building_Beams,9,If element deemed tobe load bearing
+Residential Building_Cable and Pipe Management,4,NULL
+Residential Building_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building
+Residential Building_Ceiling,4,NULL
+Residential Building_Climate Control,NULL,NULL
+Residential Building_Distribution Board,NULL,NULL
+Residential Building_Distribution Network Operator Feeder,NULL,NULL
+Residential Building_Doors and Windows,6,NULL
+Residential Building_Doors and Windows,9,If element is critical foraccess/egress/security
+Residential Building_Drainage System,5,NULL
+Residential Building_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Residential Building_Electrical System,NULL,NULL
+Residential Building_Electricity Meter,NULL,NULL
+Residential Building_Electricity Sub Meter,NULL,NULL
+Residential Building_Equipment Mounting Board,3,NULL
+Residential Building_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Residential Building_External Features,4,NULL
+Residential Building_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Residential Building_External Walls,8,NULL
+Residential Building_External Walls,9,If element deemed tobe load bearing orrequired for security
+Residential Building_Fastenings,7,NULL
+Residential Building_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Residential Building_Fire Protection,1,NULL
+Residential Building_Fixed Fall Arrest System,NULL,NULL
+Residential Building_Fixings,3,NULL
+Residential Building_Floor,8,NULL
+Residential Building_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Residential Building_Foundation,9,NULL
+Residential Building_Frame,8,NULL
+Residential Building_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Residential Building_Fuel Cell,NULL,NULL
+Residential Building_Gas System,NULL,NULL
+Residential Building_Grassed Elements,1,NULL
+Residential Building_Habitat Enhancement,1,NULL
+Residential Building_Handrail,4,NULL
+Residential Building_Handrail,7,If element required forsafe operation.
+Residential Building_Heating System,NULL,NULL
+Residential Building_Hydro Turbine,NULL,NULL
+Residential Building_Incomer,NULL,NULL
+Residential Building_Internal Features,1,NULL
+Residential Building_Internal Walls,4,NULL
+Residential Building_Internal Walls,9,If load bearing or criticalfor security.
+Residential Building_Kerbs,1,NULL
+Residential Building_Lighting,NULL,NULL
+Residential Building_Maintenance Hole,3,NULL
+Residential Building_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Residential Building_Padlock or Lock,6,NULL
+Residential Building_Padlock or Lock,9,if critical to theoperation of the asset
+Residential Building_Roller Shutters,6,NULL
+Residential Building_Roller Shutters,9,If element is critical foraccess/egress/security
+Residential Building_Roof,8,NULL
+Residential Building_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Residential Building_Security Camera,1,NULL
+Residential Building_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Residential Building_Sewage Treatment System,NULL,NULL
+Residential Building_Solar Panel,NULL,NULL
+Residential Building_Substructure,8,NULL
+Residential Building_Substructure,9,if function /performance of theasset beingcompromised.
+Residential Building_Transformer,NULL,NULL
+Residential Building_Treads and Risers,3,NULL
+Residential Building_Treads and Risers,7,if required foroperational access.
+Residential Building_Uninterruptible Power Supply,NULL,NULL
+Residential Building_Ventilation System,NULL,NULL
+Residential Building_Waste Disposal System,NULL,NULL
+Residential Building_Water Supply Plumbing System,9,NULL
+Residential Building_Wind Turbine,NULL,NULL
+Salt Marsh_Salt Marsh Edge,5,NULL
+Salt Marsh_Vegetation Cover,5,NULL
+Salt Marsh_Vegetation Cover,9,If vegetation cover iscritical to the functionof the asset e.g. Saltmarsh or Dunes.
+Sample or Survey Point_Access Strip,9,NULL
+Sample or Survey Point_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Sample or Survey Point_Datum Plates and Markers,4,NULL
+Sample or Survey Point_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Sample or Survey Point_Treads and Risers,3,NULL
+Sample or Survey Point_Treads and Risers,7,If required foroperational access.
+Sand Bagging Equipment_Common Controls,NULL,NULL
+Sand Bagging Equipment_Electrical System,NULL,NULL
+Sand Bagging Equipment_Frame,7,NULL
+Sand Bagging Equipment_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Sand Bagging Equipment_Gearbox,NULL,NULL
+Sand Bagging Equipment_Motor,NULL,NULL
+Sand Bagging Equipment_Pressure System,NULL,NULL
+Sand Trap_Chamber,6,NULL
+Sand Trap_Chamber,9,If element is critical foroperation.
+Sand Trap_Cover or Hatch,1,NULL
+Sand Trap_Fastenings,7,NULL
+Sand Trap_Fastenings,1,If item secured and itdoes not directlycontribute towards theperformance of theassets.
+Sand Trap_Fixings,3,NULL
+Sand Trap_Floor,8,NULL
+Sand Trap_Floor,9,If affected area can't beisolated and preventsthe operation of theasset as a whole.
+Sand Trap_Foundation,9,NULL
+Sand Trap_Inlet,9,NULL
+Sand Trap_Internal Walls,4,NULL
+Sand Trap_Internal Walls,9,If load bearing or criticalfor security.
+Sand Trap_Ladder,3,NULL
+Sand Trap_Ladder,1,If element doesn'tcontribute to primaryfunction of the asset.
+Sand Trap_Outlet,9,NULL
+Sand Trap_Padlock or Lock,6,NULL
+Sand Trap_Padlock or Lock,9,If critical to theoperation of the asset.
+Sand Trap_Struts and Bracing,7,NULL
+Sand Trap_Treads and Risers,3,NULL
+Sand Trap_Treads and Risers,7,If required foroperational access.
+Security Screen_Central Support Structure,9,NULL
+Security Screen_Davit,NULL,NULL
+Security Screen_Frame,7,NULL
+Security Screen_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Security Screen_Gantry,1,NULL
+Security Screen_Gantry,5,If failure wouldcompromise operation.
+Security Screen_Ladder,3,NULL
+Security Screen_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Security Screen_Left Bank Wall,6,NULL
+Security Screen_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Security Screen_Right Bank Wall,6,NULL
+Security Screen_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Security Screen_Screen,8,NULL
+Security Screen_Screen,9,If screen is for publicsafety.
+Security Screen_Silt Trap,1,NULL
+Security Screen_Silt Trap,5,"If watercourse is steep,upland and/or carriesheavy sediment load."
+Security Screen_Treads and Risers,3,NULL
+Security Screen_Treads and Risers,7,if required foroperational access.
+Security Screen_Winch,NULL,NULL
+Shelter_Access Point,9,NULL
+Shelter_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Shelter_Access Strip,9,NULL
+Shelter_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Shelter_Beams,8,NULL
+Shelter_Beams,9,If element deemed tobe load bearing
+Shelter_Cable and Pipe Management,3,NULL
+Shelter_Ceiling,4,NULL
+Shelter_Climate Control,NULL,NULL
+Shelter_Deck,7,NULL
+Shelter_Deck,9,If Deck is over water.
+Shelter_Distribution Board,NULL,NULL
+Shelter_Distribution Network Operator Feeder,NULL,NULL
+Shelter_Doors and Windows,6,NULL
+Shelter_Doors and Windows,9,If element is critical foraccess/egress/security
+Shelter_Drainage System,5,NULL
+Shelter_Drainage System,9,if failure could not bemitigated and would
+Shelter_Electrical System,NULL,NULL
+Shelter_Electricity Meter,NULL,NULL
+Shelter_Electricity Sub Meter,NULL,NULL
+Shelter_Equipment Mounting Board,3,NULL
+Shelter_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Shelter_External Features,4,NULL
+Shelter_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Shelter_External Walls,6,NULL
+Shelter_External Walls,9,If element deemed tobe load bearing orrequired for security
+Shelter_Fastenings,7,NULL
+Shelter_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Shelter_Fire Protection,1,NULL
+Shelter_Fixings,3,NULL
+Shelter_Floor,8,NULL
+Shelter_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Shelter_Foundation,9,NULL
+Shelter_Frame,8,NULL
+Shelter_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Shelter_Gas System,NULL,NULL
+Shelter_Grassed Elements,1,NULL
+Shelter_Habitat Enhancement,1,NULL
+Shelter_Heating System,NULL,NULL
+Shelter_Incomer,NULL,NULL
+Shelter_Internal Features,1,NULL
+Shelter_Internal Walls,4,NULL
+Shelter_Internal Walls,9,If load bearing or criticalfor security.
+Shelter_Kerbs,1,NULL
+Shelter_Lighting,NULL,NULL
+Shelter_Maintenance Hole,3,NULL
+Shelter_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Shelter_Mooring Point,6,NULL
+Shelter_Mooring Point,9,If element is asingle/only mooringpoint or critical for
+Shelter_Padlock or Lock,6,NULL
+Shelter_Padlock or Lock,9,if critical to theoperation of the asset
+Shelter_Planted Elements,1,NULL
+Shelter_Pontoon,1,NULL
+Shelter_Post,5,NULL
+Shelter_Post,7,If element is critical forasset function
+Shelter_Roof,8,NULL
+Shelter_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Shelter_Security Camera,1,NULL
+Shelter_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Shelter_Sewage Treatment System,NULL,NULL
+Shelter_Solar Panel,NULL,NULL
+Shelter_Substructure,8,NULL
+Shelter_Substructure,9,if function /performance of theasset beingcompromised.
+Shelter_Transformer,NULL,NULL
+Shelter_Treads and Risers,3,NULL
+Shelter_Treads and Risers,7,if required foroperational access.
+Shelter_Uninterruptible Power Supply,NULL,NULL
+Shelter_Ventilation System,NULL,NULL
+Shelter_Waste Disposal System,NULL,NULL
+Shelter_Water Point,NULL,NULL
+Shelter_Water Supply Plumbing System,5,NULL
+Shelter_Water Supply Plumbing System,9,If critical for theoperation of the assetand no alternativearrangement areavailable.
+Shelter_Wind Turbine,NULL,NULL
+Signal_Civils,4,NULL
+Signal_Daymark,9,NULL
+Signal_Electrical System,NULL,NULL
+Signal_Equipment Housing,4,NULL
+Signal_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Signal_Fastenings,7,NULL
+Signal_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Signal_Foghorn,NULL,NULL
+Signal_Navigation Light,3,NULL
+Signal_Positional Indicator,NULL,NULL
+Signal_Post,7,NULL
+Signal_Post,9,If element is critical forasset function
+Signal_Solar Panel,NULL,NULL
+Signal_Surge Arrester,NULL,NULL
+Signal_TopMark,3,NULL
+Signal_Wind Turbine,NULL,NULL
+Simple Culvert_Apron,5,NULL
+Simple Culvert_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Simple Culvert_Channel Bed,7,NULL
+Simple Culvert_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Simple Culvert_Culvert Barrel,7,NULL
+Simple Culvert_Culvert Barrel,9,"If construction materialis unknown, or heavyloading above theCulvert."
+Simple Culvert_Downstream Headwall,8,NULL
+Simple Culvert_Downstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport anembankment orinfrastructure above."
+Simple Culvert_Maintenance Hole,3,NULL
+Simple Culvert_Maintenance Hole,9,if element collapse /blockage directly impactthe performance of theasset.
+Simple Culvert_Soffit,7,NULL
+Simple Culvert_Soffit,9,"If construction materialis unknown, or heavyloading above theculvert."
+Simple Culvert_Upstream Headwall,8,NULL
+Simple Culvert_Upstream Headwall,6,"If flood flows are likelyto be slow (<1m/s),failure would notcompromise flows inthe short term andheadwall does notsupport anembankment orinfrastructure above."
+Slipway_Apron,5,NULL
+Slipway_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Slipway_Bearing Piling,6,NULL
+Slipway_Bearing Piling,9,If element is requiredfor structural integrity.
+Slipway_Bollard,3,NULL
+Slipway_Bollard,6,If element plays a safetycritical role
+Slipway_Navigation Light,3,NULL
+Slipway_Piling,6,NULL
+Slipway_Piling,9,If element is requiredfor structural integrity.
+Slipway_Retaining Wall,6,NULL
+Slipway_Retaining Wall,9,if failure prevents theoperation of the asset
+Slipway_Slope,6,NULL
+Slipway_Slope,9,If element critical tooverall asset function.
+Slipway_Treads and Risers,3,NULL
+Slipway_Treads and Risers,7,if required foroperational access.
+Slipway_Wheel Stop,3,NULL
+Slipway_Wheel Stop,6,If element categorisedas Critical to overallasset function
+Slipway_Winch,NULL,NULL
+Soil Moisture Tube_Access Point,9,NULL
+Soil Moisture Tube_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Soil Moisture Tube_Access Strip,6,NULL
+Soil Moisture Tube_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Soil Moisture Tube_Animal Grid,2,NULL
+Soil Moisture Tube_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Soil Moisture Tube_Borehole Cap,3,NULL
+Soil Moisture Tube_Borehole Cap,9,If element is critical tothe protection ofgroundwater
+Soil Moisture Tube_Cable Management,4,NULL
+Soil Moisture Tube_Cable Management,7,If pipes carry control orpower cables
+Soil Moisture Tube_Casing,5,NULL
+Soil Moisture Tube_Casing,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Soil Moisture Tube_Chamber,5,NULL
+Soil Moisture Tube_Chamber,7,If element is critical foroperation.
+Soil Moisture Tube_Climate Control,NULL,NULL
+Soil Moisture Tube_Common Controls,NULL,NULL
+Soil Moisture Tube_Cover or Door,1,NULL
+Soil Moisture Tube_Datum Plates and Markers,4,NULL
+Soil Moisture Tube_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Soil Moisture Tube_Distribution Board,NULL,NULL
+Soil Moisture Tube_Distribution Network Operator Feeder,NULL,NULL
+Soil Moisture Tube_Electrical System,NULL,NULL
+Soil Moisture Tube_Electricity Sub Meter,NULL,NULL
+Soil Moisture Tube_Equipment Housing,4,NULL
+Soil Moisture Tube_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Soil Moisture Tube_Expansion Joint,5,NULL
+Soil Moisture Tube_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Soil Moisture Tube_External Walls,6,NULL
+Soil Moisture Tube_External Walls,9,If element deemed tobe load bearing orrequired for security
+Soil Moisture Tube_Fastenings,7,NULL
+Soil Moisture Tube_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Soil Moisture Tube_Fixings,3,NULL
+Soil Moisture Tube_Floor,8,NULL
+Soil Moisture Tube_Floor,9,if affected area can't beisolated and prevents
+Soil Moisture Tube_Foundation,9,NULL
+Soil Moisture Tube_Frame,7,NULL
+Soil Moisture Tube_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Soil Moisture Tube_Grassed Elements,1,NULL
+Soil Moisture Tube_Incomer,NULL,NULL
+Soil Moisture Tube_Ladder,3,NULL
+Soil Moisture Tube_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Soil Moisture Tube_Lifting Chains and Sprockets,NULL,NULL
+Soil Moisture Tube_Lighting,NULL,NULL
+Soil Moisture Tube_Maintenance Hole,3,NULL
+Soil Moisture Tube_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Soil Moisture Tube_Measurement Scale,7,NULL
+Soil Moisture Tube_Measurement Scale,9,If sole means ofmeasuring a value.
+Soil Moisture Tube_Padlock or Lock,6,NULL
+Soil Moisture Tube_Padlock or Lock,9,if critical to theoperation of the asset
+Soil Moisture Tube_Pipe,6,NULL
+Soil Moisture Tube_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Soil Moisture Tube_Pipe Flange,6,NULL
+Soil Moisture Tube_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Soil Moisture Tube_Pipe Sleeve,3,NULL
+Soil Moisture Tube_Pipe T Piece,6,NULL
+Soil Moisture Tube_Pipe T Piece,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Soil Moisture Tube_Pipe Valve,6,NULL
+Soil Moisture Tube_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Soil Moisture Tube_Pipework,6,NULL
+Soil Moisture Tube_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Soil Moisture Tube_Planted Elements,1,NULL
+Soil Moisture Tube_Relay Control,NULL,NULL
+Soil Moisture Tube_Seals,5,NULL
+Soil Moisture Tube_Seals,7,If element is critical forasset function
+Soil Moisture Tube_Shaft,7,NULL
+Soil Moisture Tube_Solar Panel,NULL,NULL
+Soil Moisture Tube_Substructure,8,NULL
+Soil Moisture Tube_Substructure,9,if function /performance of theasset beingcompromised.
+Soil Moisture Tube_Transformer,NULL,NULL
+Soil Moisture Tube_Treads and Risers,3,NULL
+Soil Moisture Tube_Treads and Risers,7,if required foroperational access.
+Soil Moisture Tube_Vertical Extended Spindle,NULL,NULL
+Soil Moisture Tube_Wind Turbine,NULL,NULL
+Solar Farm_Access Point,6,NULL
+Solar Farm_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Solar Farm_Access Strip,6,NULL
+Solar Farm_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Solar Farm_Cable and Pipe Management,4,NULL
+Solar Farm_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe asset.
+Solar Farm_Common Controls,NULL,NULL
+Solar Farm_Distribution Board,NULL,NULL
+Solar Farm_Distribution Network Operator Feeder,NULL,NULL
+Solar Farm_Electrical System,NULL,NULL
+Solar Farm_Electricity Meter,NULL,NULL
+Solar Farm_Electricity Sub Meter,NULL,NULL
+Solar Farm_Foundation,9,NULL
+Solar Farm_Frame,7,NULL
+Solar Farm_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Solar Farm_Incomer,NULL,NULL
+Solar Farm_Solar Panel,NULL,NULL
+Solar Farm_Surge Arrester,NULL,NULL
+Solar Farm_Transformer,NULL,NULL
+Spillway_Crest,9,NULL
+Spillway_Downstream Face,9,NULL
+Spillway_Funnel,9,NULL
+Spillway_Pipe,6,NULL
+Spillway_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Spillway_Upstream Face,9,NULL
+Steps_Balustrade,4,NULL
+Steps_Balustrade,7,If element required forsafe operation.
+Steps_Fastenings,7,NULL
+Steps_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Steps_Handrail,4,NULL
+Steps_Handrail,7,If element required forsafe operation.
+Steps_Treads and Risers,7,NULL
+Steps_Treads and Risers,9,if required foroperational access.
+Stilling Basin_Chamber,4,NULL
+Stilling Basin_Outlet,7,NULL
+Stilling Basin_Outlet,9,If element categorisedas Critical to overallasset function
+Stilling Basin_Treads and Risers,3,NULL
+Stilling Basin_Treads and Risers,7,if required foroperational access.
+Stilling Well_Antenna,NULL,NULL
+Stilling Well_Cable and Pipe Management,4,NULL
+Stilling Well_Cable and Pipe Management,7,If pipes carry pumpedmaterial or control orpower cables
+Stilling Well_Chamber,6,NULL
+Stilling Well_Chamber,9,If element is critical foroperation.
+Stilling Well_Cover or Hatch,1,NULL
+Stilling Well_Drainage System,5,NULL
+Stilling Well_Drainage System,9,if failure could not bemitigated and wouldcause a H&S / pollutionincident.
+Stilling Well_Expansion Joint,5,NULL
+Stilling Well_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Stilling Well_Fastenings,7,NULL
+Stilling Well_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Stilling Well_Fixings,3,NULL
+Stilling Well_Floor,8,NULL
+Stilling Well_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Stilling Well_Foundation,9,NULL
+Stilling Well_Frame,8,NULL
+Stilling Well_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Stilling Well_Inlet,9,NULL
+Stilling Well_Internal Features,1,NULL
+Stilling Well_Ladder,3,NULL
+Stilling Well_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Stilling Well_Lifting Chains and Sprockets,NULL,NULL
+Stilling Well_Lifting Ropes and Drums,NULL,NULL
+Stilling Well_Measurement Scale,7,NULL
+Stilling Well_Measurement Scale,9,If sole means ofmeasuring a value.
+Stilling Well_Outlet,9,NULL
+Stilling Well_Padlock or Lock,6,NULL
+Stilling Well_Padlock or Lock,9,if critical to theoperation of the asset
+Stilling Well_Pipe,6,NULL
+Stilling Well_Pipe,9,If fully functionality ofthe assets is dependentsolely on the pipe beingassessed.
+Stilling Well_Pipe Valve,6,NULL
+Stilling Well_Pipe Valve,9,if on a pipe that iscritical to the asset
+Stilling Well_Pump Out Point,5,NULL
+Stilling Well_Seals,5,NULL
+Stilling Well_Seals,7,If element is critical forasset function
+Stilling Well_Struts and Bracing,7,NULL
+Stilling Well_Substructure,8,NULL
+Stilling Well_Substructure,9,if function /performance of theasset beingcompromised.
+Stilling Well_Treads and Risers,3,NULL
+Stilling Well_Treads and Risers,7,if required foroperational access.
+Storage Location_Ceiling,4,NULL
+Storage Location_Holding,9,NULL
+Storage Location_Treads and Risers,3,NULL
+Storage Location_Treads and Risers,7,if required foroperational access.
+Surface Water Tank_Access Point,6,NULL
+Surface Water Tank_Access Point,3,If an alternate accessfor regular maintenanceis available.
+Surface Water Tank_Access Strip,6,NULL
+Surface Water Tank_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Surface Water Tank_Balustrade,4,NULL
+Surface Water Tank_Balustrade,7,If element required forsafe operation.
+Surface Water Tank_Beams,8,NULL
+Surface Water Tank_Beams,9,If element deemed tobe load bearing
+Surface Water Tank_Bund,9,NULL
+Surface Water Tank_Camera,7,NULL
+Surface Water Tank_Camera,5,if able to monitor assetby alternative means.
+Surface Water Tank_Chamber,4,NULL
+Surface Water Tank_Chamber,9,If element is critical foroperation.
+Surface Water Tank_Cover or Hatch,1,NULL
+Surface Water Tank_Display,NULL,NULL
+Surface Water Tank_Equipment Housing,4,NULL
+Surface Water Tank_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Surface Water Tank_Foundation,9,NULL
+Surface Water Tank_Frame,7,NULL
+Surface Water Tank_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Surface Water Tank_Handrail,4,NULL
+Surface Water Tank_Handrail,7,If element required forsafe operation.
+Surface Water Tank_Inlet,9,NULL
+Surface Water Tank_Ladder,3,NULL
+Surface Water Tank_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Surface Water Tank_Measurement Scale,7,NULL
+Surface Water Tank_Measurement Scale,9,If sole means ofmeasuring a value.
+Surface Water Tank_Outlet,9,NULL
+Surface Water Tank_Padlock or Lock,6,NULL
+Surface Water Tank_Padlock or Lock,9,if critical to theoperation of the asset
+Surface Water Tank_Pipe,6,NULL
+Surface Water Tank_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Surface Water Tank_Pipe Flange,6,NULL
+Surface Water Tank_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Surface Water Tank_Pipe Sleeve,3,NULL
+Surface Water Tank_Pipe T Piece,6,NULL
+Surface Water Tank_Pipe T Piece,9,if on a pipe that iscritical to the asset
+Surface Water Tank_Pipe Valve,6,NULL
+Surface Water Tank_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Surface Water Tank_Sensor,7,NULL
+Surface Water Tank_Sensor,9,If the sensor is critical tothe operation of theasset and there is noinbuild back-up oralternative operationalconfiguration
+Surface Water Tank_Substructure,8,NULL
+Surface Water Tank_Substructure,9,if function /performance of theasset beingcompromised.
+Surface Water Tank_Treads and Risers,3,NULL
+Surface Water Tank_Treads and Risers,7,if required foroperational access.
+Telecommunications_Cable Management,4,NULL
+Telecommunications_Cable Management,7,If pipes carry control orpower cables
+Telecommunications_Equipment Mounting Board,3,NULL
+Telecommunications_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Telecommunications_Fixings,6,NULL
+Telecommunications_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Telecommunications_Master Socket,NULL,NULL
+Telecommunications_Padlock or Lock,6,NULL
+Telecommunications_Padlock or Lock,9,if critical to theoperation of the asset
+Telemetry System_Antenna,NULL,NULL
+Telemetry System_Battery,NULL,NULL
+Telemetry System_Battery Charger,NULL,NULL
+Telemetry System_Cable and Pipe Management,4,NULL
+Telemetry System_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe telemetry system
+Telemetry System_Charge Controller,NULL,NULL
+Telemetry System_Civils,4,NULL
+Telemetry System_Climate Control,NULL,NULL
+Telemetry System_Common Controls,NULL,NULL
+Telemetry System_Control Equipment,NULL,NULL
+Telemetry System_Data Card,NULL,NULL
+Telemetry System_Data Logger,NULL,NULL
+Telemetry System_Datum Plates and Markers,2,NULL
+Telemetry System_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Telemetry System_Distribution Board,NULL,NULL
+Telemetry System_Distribution Network Operator Feeder,NULL,NULL
+Telemetry System_Electrical System,NULL,NULL
+Telemetry System_Electricity Meter,NULL,NULL
+Telemetry System_Electricity Sub Meter,NULL,NULL
+Telemetry System_Equipment Housing,4,NULL
+Telemetry System_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Telemetry System_Equipment Mounting Board,3,NULL
+Telemetry System_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Telemetry System_Fastenings,7,NULL
+Telemetry System_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Telemetry System_Fixings,6,NULL
+Telemetry System_Fixings,9,If fixing is critical tosecurity/structure ofasset.
+Telemetry System_Foundation,9,NULL
+Telemetry System_Incomer,NULL,NULL
+Telemetry System_Ladder,3,NULL
+Telemetry System_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Telemetry System_Lighting,NULL,NULL
+Telemetry System_Measurement Scale,7,NULL
+Telemetry System_Measurement Scale,9,If sole means ofmeasuring a value.
+Telemetry System_Modem,NULL,NULL
+Telemetry System_Network,NULL,NULL
+Telemetry System_Outstation,NULL,NULL
+Telemetry System_Padlock or Lock,6,NULL
+Telemetry System_Padlock or Lock,9,if critical to theoperation of the asset
+Telemetry System_Pipe,6,NULL
+Telemetry System_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Telemetry System_Post,8,NULL
+Telemetry System_Post,9,If element is critical forasset function
+Telemetry System_Programmable Logic Computers,NULL,NULL
+Telemetry System_Relay Control,NULL,NULL
+Telemetry System_Router,NULL,NULL
+Telemetry System_Security Camera,1,NULL
+Telemetry System_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Telemetry System_Solar Panel,NULL,NULL
+Telemetry System_Stilling Tube,9,NULL
+Telemetry System_Surge Arrester,NULL,NULL
+Telemetry System_Transformer,NULL,NULL
+Telemetry System_Treads and Risers,3,NULL
+Telemetry System_Treads and Risers,7,if required foroperational access.
+Telemetry System_Uninterruptible Power Supply,NULL,NULL
+Telemetry System_Wind Turbine,NULL,NULL
+Utility Services Crossing_Abutment,7,NULL
+Utility Services Crossing_Abutment,9,If no revetment (Faceprotection) present
+Utility Services Crossing_Channel Bed,7,NULL
+Utility Services Crossing_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Utility Services Crossing_Pillar,8,NULL
+Utility Services Crossing_Pillar,9,If element is critical tostructural integrity ofthe asset.
+Utility Services Crossing_Span,9,NULL
+Vehicle Access Road_Access Point,9,NULL
+Vehicle Access Road_Access Point,3,"If an alternate access isavailable, for operationof the asset."
+Vehicle Access Road_Access Strip,9,NULL
+Vehicle Access Road_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Vehicle Access Road_Bollard,3,NULL
+Vehicle Access Road_Bollard,6,If element plays a safetycritical role
+Vehicle Access Road_Datum Plates and Markers,2,NULL
+Vehicle Access Road_Datum Plates and Markers,5,If critical for datacalibration / qualitychecks.
+Vehicle Access Road_Drainage Ditch,5,NULL
+Vehicle Access Road_Drainage System,5,NULL
+Vehicle Access Road_Drainage System,9,"if failure could not bemitigated and wouldcause a H,S&W /pollution incident."
+Vehicle Access Road_Foundation,9,NULL
+Vehicle Access Road_Grassed Elements,3,NULL
+Vehicle Access Road_Grassed Elements,5,If element forms a keycomponent of the finalsurface.
+Vehicle Access Road_Kerbs,4,NULL
+Vehicle Access Road_Lighting,NULL,NULL
+Vehicle Access Road_Planted Elements,3,NULL
+Vehicle Access Road_Planted Elements,5,If element forms a keycomponent of the finalsurface.
+Vehicle Access Road_Road,3,NULL
+Vehicle Access Road_Road,9,If critical to thefunctioning of the assetie there is noalternative access.
+Vehicle Access Road_Security Barrier,3,NULL
+Vehicle Access Road_Security Barrier,9,if critic to preventingunauthorised access orthere is no alternativeaccess for authorisedpeople / operationalstaff.
+Vehicle Access Road_Slope,6,NULL
+Vehicle Access Road_Slope,9,If element critical tooverall asset function.
+Vehicle Access Road_Substructure,8,NULL
+Vehicle Access Road_Substructure,9,if function /performance of theasset beingcompromised.
+Vehicle Access Road_Swale,2,NULL
+Vehicle Access Road_Swale,5,If primary form ofdrainage for asset
+Visitor Centre_Access Strip,9,NULL
+Visitor Centre_Access Strip,3,"If an alternate access isavailable, for operationof the asset."
+Visitor Centre_Alternator,NULL,NULL
+Visitor Centre_Balustrade,4,NULL
+Visitor Centre_Balustrade,7,If element required forsafe operation.
+Visitor Centre_Beams,8,NULL
+Visitor Centre_Beams,9,If element deemed tobe load bearing
+Visitor Centre_Cable and Pipe Management,4,NULL
+Visitor Centre_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe building
+Visitor Centre_Ceiling,4,NULL
+Visitor Centre_Climate Control,NULL,NULL
+Visitor Centre_Distribution Board,NULL,NULL
+Visitor Centre_Distribution Network Operator Feeder,NULL,NULL
+Visitor Centre_Doors and Windows,6,NULL
+Visitor Centre_Doors and Windows,9,If element is critical foraccess/egress/security
+Visitor Centre_Drainage System,5,NULL
+Visitor Centre_Drainage System,9,if failure could not bemitigated and would
+Visitor Centre_Electrical System,NULL,NULL
+Visitor Centre_Electricity Meter,NULL,NULL
+Visitor Centre_Electricity Sub Meter,NULL,NULL
+Visitor Centre_Equipment Mounting Board,3,NULL
+Visitor Centre_Equipment Mounting Board,9,if board supportsequipment critical tothe operation of theasset and the lack ofsupport would makethem inoperable.
+Visitor Centre_External Features,4,NULL
+Visitor Centre_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Visitor Centre_External Walls,8,NULL
+Visitor Centre_External Walls,9,If element deemed tobe load bearing orrequired for security
+Visitor Centre_Fastenings,7,NULL
+Visitor Centre_Fastenings,1,if item secured and itdoes not directlycontribute towards theperformance of theassets.
+Visitor Centre_Fire Protection,1,NULL
+Visitor Centre_Fixed Fall Arrest System,NULL,NULL
+Visitor Centre_Fixings,3,NULL
+Visitor Centre_Floor,8,NULL
+Visitor Centre_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Visitor Centre_Foundation,9,NULL
+Visitor Centre_Frame,8,NULL
+Visitor Centre_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Visitor Centre_Fuel Cell,NULL,NULL
+Visitor Centre_Gas System,NULL,NULL
+Visitor Centre_Grassed Elements,3,NULL
+Visitor Centre_Habitat Enhancement,1,NULL
+Visitor Centre_Handrail,4,NULL
+Visitor Centre_Handrail,7,If element required forsafe operation.
+Visitor Centre_Heating System,NULL,NULL
+Visitor Centre_Hydro Turbine,NULL,NULL
+Visitor Centre_Incomer,NULL,NULL
+Visitor Centre_Internal Features,1,NULL
+Visitor Centre_Internal Walls,4,NULL
+Visitor Centre_Internal Walls,9,If load bearing or criticalfor security.
+Visitor Centre_Lighting,NULL,NULL
+Visitor Centre_Maintenance Hole,3,NULL
+Visitor Centre_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Visitor Centre_Padlock or Lock,6,NULL
+Visitor Centre_Padlock or Lock,9,if critical to theoperation of the asset
+Visitor Centre_Planted Elements,1,NULL
+Visitor Centre_Roller Shutters,6,NULL
+Visitor Centre_Roller Shutters,9,If element is critical foraccess/egress/security
+Visitor Centre_Roof,8,NULL
+Visitor Centre_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Visitor Centre_Security Camera,1,NULL
+Visitor Centre_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Visitor Centre_Sewage Treatment System,NULL,NULL
+Visitor Centre_Solar Panel,NULL,NULL
+Visitor Centre_Substructure,8,NULL
+Visitor Centre_Substructure,9,if function /performance of theasset beingcompromised.
+Visitor Centre_Transformer,NULL,NULL
+Visitor Centre_Treads and Risers,3,NULL
+Visitor Centre_Treads and Risers,7,if required foroperational access.
+Visitor Centre_Uninterruptible Power Supply,NULL,NULL
+Visitor Centre_Ventilation System,NULL,NULL
+Visitor Centre_Waste Disposal System,NULL,NULL
+Visitor Centre_Water Point,NULL,NULL
+Visitor Centre_Water Supply Plumbing System,9,NULL
+Vortex Flow Control_Apron,5,NULL
+Vortex Flow Control_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Vortex Flow Control_Downstream Headwall,8,NULL
+Vortex Flow Control_Treads and Risers,3,NULL
+Vortex Flow Control_Treads and Risers,7,if required foroperational access.
+Vortex Flow Control_Upstream Headwall,8,NULL
+Vortex Flow Control_Vortex,9,NULL
+Wall_Access Strip,3,NULL
+Wall_Access Strip,6,"If frequent maintenanceis required to keep theasset operational, e.g.for flow measurement,and no alternativeaccess is available."
+Wall_Bearing Piling,8,NULL
+Wall_Bearing Piling,9,If element is requiredfor structural integrity.
+Wall_Berm,5,NULL
+Wall_Berm,7,If less than 3 metreswide.
+Wall_Capping Beam,6,NULL
+Wall_Capping Beam,8,If critical to thestructural integrity ofthe asset
+Wall_Channel Side,5,NULL
+Wall_Channel Side,7,If less than 3 metreshorizontally from asset.
+Wall_Coping,2,NULL
+Wall_Coping,9,if the wall is for floodrisk management andthe coping is required toachieve the designstandard of protection.
+Wall_Core,NULL,NULL
+Wall_Crest,7,NULL
+Wall_Crest,9,If failure of crest wouldcompromise the Wall.
+Wall_Expansion Joint,5,NULL
+Wall_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Wall_Exposed Face,7,NULL
+Wall_Exposed Face,9,If primary defence hasno revetment or isexposed to extremeloading.
+Wall_Exposed Toe,5,NULL
+Wall_Exposed Toe,8,If asset is extremelyexposed or ExposedFace is a vertical wall.
+Wall_Fill,NULL,NULL
+Wall_Foundation,9,NULL
+Wall_Glass Panel,7,NULL
+Wall_Glass Panel,9,If asset is extremelyexposed.
+Wall_Glass Panel Frame,7,NULL
+Wall_Glass Panel Frame,9,If asset is extremelyexposed.
+Wall_Ground Anchors,6,NULL
+Wall_Landward Face,7,NULL
+Wall_Landward Face,9,If the primary defencehas no revetment or issubject to regularoverflowing.
+Wall_Landward Toe,7,NULL
+Wall_Piling,8,NULL
+Wall_Piling,9,If element is requiredfor structural integrity.
+Wall_Property Level Resilience,9,NULL
+Wall_Seals,7,NULL
+Wall_Sheet Piling,8,NULL
+Wall_Sheet Piling,9,If element is used forholding back water or isdeemed to bestructurally significant.
+Wall_Shore,5,NULL
+Wall_Shore,8,"If asset is extremelyexposed, or Shoreprovides structuralstability and preventsexposure of thefoundations."
+Wall_Splash Deck,2,NULL
+Wall_Splash Wall,4,NULL
+Warning Flag_Flag,9,NULL
+Warning Flag_Post,7,NULL
+Warning Flag_Post,9,If element is critical forasset function
+Water Baffles_Baffles,9,NULL
+Water Baffles_Channel,6,NULL
+Water Baffles_Channel,9,if channel required tosecure baffles.
+Water Baffles_Treads and Risers,3,NULL
+Water Baffles_Treads and Risers,7,if required foroperational access.
+Water Distribution Pipeline_Foundation,9,NULL
+Water Distribution Pipeline_Isolation Flange,9,NULL
+Water Distribution Pipeline_Isolation Flange,3,If damaged element canbe isolated withoutdisrupting waterdistribution i.e. pipe istwinned or alternativeroute is available.
+Water Distribution Pipeline_Maintenance Hole,3,NULL
+Water Distribution Pipeline_Maintenance Hole,9,if element collapse /blockage directly impactthe performance of theasset.
+Water Distribution Pipeline_Pipe Flange,6,NULL
+Water Distribution Pipeline_Pipe Flange,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Water Distribution Pipeline_Pipe Sleeve,3,NULL
+Water Distribution Pipeline_Pipe T Piece,6,NULL
+Water Distribution Pipeline_Pipe T Piece,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Water Distribution Pipeline_Pipe Valve,6,NULL
+Water Distribution Pipeline_Pipe Valve,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Water Distribution Pipeline_Pipework,6,NULL
+Water Distribution Pipeline_Pipework,9,if on a pipe that iscritical to the asset
+Water Distribution Pipeline_Seals,7,NULL
+Water Distribution Pipeline_Treads and Risers,3,NULL
+Water Distribution Pipeline_Treads and Risers,7,if required foroperational access.
+Water Storage Area_Access Strip,6,NULL
+Water Storage Area_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Water Storage Area_Animal Grid,2,NULL
+Water Storage Area_Animal Grid,6,If functioning of theAsset could be directlyaffected by animaldamage
+Water Storage Area_Channel Bed,7,NULL
+Water Storage Area_Channel Bed,9,"If the Channel Bedprovides structuralsupport or erosionprotection, and there isevidence of scour."
+Water Storage Area_Fish Guidance and Deterrents,NULL,NULL
+Water Storage Area_Grassed Elements,2,NULL
+Water Storage Area_Habitat Enhancement,1,NULL
+Water Storage Area_Inlet,7,NULL
+Water Storage Area_Inlet,9,If element categorisedas Critical to overallasset function
+Water Storage Area_Ladder,3,NULL
+Water Storage Area_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Water Storage Area_Outlet,7,NULL
+Water Storage Area_Outlet,9,If element categorisedas Critical to overallasset function
+Water Storage Area_Planted Elements,1,NULL
+Water Storage Area_Pontoon,1,NULL
+Water Storage Area_Vegetation Cover,5,NULL
+Water Storage Area_Vegetation Cover,9,If vegetation covercritical to the function
+Watermill_Alternator,NULL,NULL
+Watermill_Ceiling,4,NULL
+Watermill_Climate Control,NULL,NULL
+Watermill_Doors and Windows,6,NULL
+Watermill_Doors and Windows,9,If element is critical foraccess/egress/security
+Watermill_External Features,4,NULL
+Watermill_External Features,6,if feature protectsstructural elementsfrom deterioration orrequired for security.
+Watermill_Fire Protection,1,NULL
+Watermill_Floor,8,NULL
+Watermill_Floor,9,if affected area can't beisolated and preventsthe operation of theasset as a whole.
+Watermill_Foundation,9,NULL
+Watermill_Frame,8,NULL
+Watermill_Frame,9,If structure is of majorsignificance and failurewill compromiseoperation.
+Watermill_Fuel Cell,NULL,NULL
+Watermill_Hydro Turbine,NULL,NULL
+Watermill_Internal Features,1,NULL
+Watermill_Lighting,NULL,NULL
+Watermill_Roller Shutters,6,NULL
+Watermill_Roller Shutters,9,If element is critical foraccess/egress/security
+Watermill_Roof,8,NULL
+Watermill_Roof,9,If element is critical forsecurity or building is ofmajor significance
+Watermill_Security Camera,1,NULL
+Watermill_Security Camera,6,If Asset has a history ofsuffering from criminalactivity and the camerais a critical element ofthe security systemprotecting the Asset.
+Watermill_Solar Panel,NULL,NULL
+Watermill_Treads and Risers,3,NULL
+Watermill_Treads and Risers,7,if required foroperational access.
+Watermill_Uninterruptible Power Supply,NULL,NULL
+Watermill_Water Wheel,NULL,NULL
+Weir_Access Point,3,NULL
+Weir_Access Point,6,"If frequent maintenanceis required to keep theasset operational, e.g.for flow measurement,and no alternativeaccess is available."
+Weir_Access Strip,3,NULL
+Weir_Access Strip,6,"If frequent maintenanceis required to keep theasset operational, e.g.for flow measurement,and no alternativeaccess is available."
+Weir_Actuator,NULL,NULL
+Weir_Apron,5,NULL
+Weir_Apron,3,If apron structure is ofminor significance andfailure will not induceasset failure.
+Weir_Bearing Piling,6,NULL
+Weir_Bearing Piling,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Weir_Capping Beam,6,NULL
+Weir_Capping Beam,8,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Weir_Central Support Structure,6,NULL
+Weir_Central Support Structure,4,If structure is minor andfailure will not lead tosudden release ofhazardous flows.
+Weir_Crest,7,NULL
+Weir_Crest,9,"If the crest level iscritical for 1. flow orlevel monitoring, 2.regulating flow into areservoir or waterstorage area, or 3.maintaining a safedepth for navigation"
+Weir_Datum Plates and Markers,4,NULL
+Weir_Datum Plates and Markers,7,If critical for datacalibration / qualitychecks.
+Weir_Davit,NULL,NULL
+Weir_Daymark,9,NULL
+Weir_Downstream Face,7,NULL
+Weir_Downstream Face,9,"If the Crest level iscritical for 1. flow orlevel monitoring, 2.regiulating flow into areservoir or waterstorage area, or 3.maintaining a safedepth for navigation"
+Weir_Drive Assembly,7,NULL
+Weir_Drive Assembly,9,If there is no alternativefor operating the asset.
+Weir_Expansion Joint,5,NULL
+Weir_Expansion Joint,8,if failure could cause ajet of water to scour /erode foundations ofthe structure
+Weir_Exposed Face,7,NULL
+Weir_Exposed Face,9,If the exposed face iscritical for flow or levelmonitoring.
+Weir_Gantry,1,NULL
+Weir_Gantry,5,If failure wouldcompromise operation.
+Weir_Guide Pile,9,NULL
+Weir_Guide Pile,7,If single guide pile.
+Weir_Ladder,3,NULL
+Weir_Ladder,5,"if element is consideredcritical to access, egressor security or to theoverall asset function."
+Weir_Left Bank Wall,6,NULL
+Weir_Left Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Weir_Mooring Point,6,NULL
+Weir_Mooring Point,9,If element is asingle/only mooringpoint or critical fornavigation oroperational access
+Weir_Navigation Light,3,NULL
+Weir_Paddles and Rymers,7,NULL
+Weir_Paddles and Rymers,9,If asset is extremelyexposed.
+Weir_Pile Capping,6,NULL
+Weir_Pile Capping,8,If element is critical forthe asset to performmonitoring / flow
+Weir_Piling,6,NULL
+Weir_Piling,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Weir_Right Bank Wall,6,NULL
+Weir_Right Bank Wall,4,If asset is minor andfailure will notcompromise operation.
+Weir_Sheet Piling,8,NULL
+Weir_Sheet Piling,9,If element is used forholding back water or isdeemed to bestructurally significant.
+Weir_Stoplogs and Lasherboards,3,NULL
+Weir_Stoplogs and Lasherboards,9,If required to performfrequent maintenanceor inspection activities
+Weir_Treads and Risers,3,NULL
+Weir_Treads and Risers,7,if required foroperational access.
+Weir_Upstream Face,7,NULL
+Weir_Upstream Face,9,If element is critical forflow or levelmonitoring.
+Weir_Waling,6,NULL
+Weir_Weir Plate,8,NULL
+Weir_Weir Plate,9,If element is critical forthe asset to performmonitoring / flowcalculation / levelmeasurement function
+Well_Access Point,3,NULL
+Well_Access Point,6,"If frequent maintenanceis required to keep theasset operational, e.g.for flow measurement,and no alternativeaccess is available."
+Well_Access Strip,3,NULL
+Well_Access Strip,6,"If frequent maintenanceis required to keep theasset operational, e.g.for flow measurement,and no alternativeaccess is available."
+Well_Chamber,4,NULL
+Well_Chamber,9,If element is critical foroperation.
+Well_Equipment Housing,4,NULL
+Well_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Well_Fixings,3,NULL
+Well_Inlet,9,NULL
+Well_Internal Features,1,NULL
+Well_Ladder,3,NULL
+Well_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Well_Maintenance Hole,3,NULL
+Well_Maintenance Hole,6,If element provides solemeans of undertakingmaintenance orinspection activity.
+Well_Outlet,9,NULL
+Well_Padlock or Lock,6,NULL
+Well_Padlock or Lock,9,if critical to theoperation of the asset
+Well_Pipe,6,NULL
+Well_Pipe,9,If fully fuctionality ofthe assets is dependentsolely on the pipe beingassessed.
+Well_Pipework,6,NULL
+Well_Pipework,9,if on a pipe that iscritical to the assetoperation and can't bebypassed and isolated.
+Well_Pump Out Point,5,NULL
+Well_Seals,5,NULL
+Well_Seals,7,If element is critical forasset function
+Well_Treads and Risers,3,NULL
+Well_Treads and Risers,7,if required foroperational access.
+Wind Power Generator_Access Strip,6,NULL
+Wind Power Generator_Access Strip,3,If an alternate accessfor regular maintenanceis available.
+Wind Power Generator_Alternator,NULL,NULL
+Wind Power Generator_Cable and Pipe Management,4,NULL
+Wind Power Generator_Cable and Pipe Management,7,If cables or pipes areintegral to operation ofthe asset.
+Wind Power Generator_Common Controls,NULL,NULL
+Wind Power Generator_Control Equipment,NULL,NULL
+Wind Power Generator_Distribution Board,NULL,NULL
+Wind Power Generator_Distribution Network Operator Feeder,NULL,NULL
+Wind Power Generator_Drive Assembly,9,NULL
+Wind Power Generator_Electrical System,NULL,NULL
+Wind Power Generator_Electricity Meter,NULL,NULL
+Wind Power Generator_Electricity Sub Meter,NULL,NULL
+Wind Power Generator_Equipment Housing,4,NULL
+Wind Power Generator_Equipment Housing,6,"If equipment containedwithin element is notindependentlyweatherproof,independently securedor poses a safety risk."
+Wind Power Generator_Foundation,9,NULL
+Wind Power Generator_Incomer,NULL,NULL
+Wind Power Generator_Ladder,3,NULL
+Wind Power Generator_Ladder,1,if element doesn'tcontribute to primaryfunction of the asset
+Wind Power Generator_Mast,9,NULL
+Wind Power Generator_Starter,NULL,NULL
+Wind Power Generator_Transformer,NULL,NULL
+Wind Power Generator_Wind Turbine,NULL,NULL
+Promenade_Splash Wall,5,NULL
+Promenade_Exposed Toe,5,NULL
+Promenade_Exposed Face,5,NULL
+Promenade_Shore,5,NULL
+Engineered High Ground_Toe Protection,6,NULL

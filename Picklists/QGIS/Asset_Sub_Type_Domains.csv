@@ -1,0 +1,160 @@
+Asset Type,Asset_Sub_Type
+Aids to Navigation,Beacon
+Aids to Navigation,Boat Lift
+Aids to Navigation,Boatroller
+Aids to Navigation,Buoy
+Aids to Navigation,Canoe Pass
+Aids to Navigation,Canoe Portage Point
+Aids to Navigation,Dock
+Aids to Navigation,Dolphin
+Aids to Navigation,Landing
+Aids to Navigation,Lock
+Aids to Navigation,Lock Island
+Aids to Navigation,Mooring
+Aids to Navigation,Navigation Boom
+Aids to Navigation,Navigation Signage
+Aids to Navigation,Signal
+Aids to Navigation,Warning Flag
+Amenities,Car Park or Hardstanding
+Amenities,Information Board
+Amenities,Pathway
+Amenities,Vehicle Access Road
+Asset Complex,Biodiversity and Environmental Conservation
+Asset Complex,Complex Beach Structure
+Asset Complex,Complex Defence
+Asset Complex,Complex Structure
+Asset Complex,Control Structure
+Asset Complex,Erosion Protection
+Asset Complex,Fish Farm
+Asset Complex,Fish Hatchery
+Asset Complex,Flood Alleviation Scheme
+Asset Complex,Harbour
+Asset Complex,Lock Complex
+Asset Complex,Monitoring Station
+Asset Complex,Navigation Complex
+Asset Complex,Pumping Station
+Asset Complex,Recreational Complex
+Asset Complex,Reservoir
+Asset Complex,Tidal Barrier
+Asset Complex,Water Level and Flow Monitoring Complex
+Asset Complex,Water Transfer Scheme
+Beach Structure,Breakwater
+Beach Structure,Groyne
+Buildings and Compounds,Amenity Building
+Buildings and Compounds,Boathouse
+Buildings and Compounds,Control Building
+Buildings and Compounds,Garage
+Buildings and Compounds,Gauging Station Building
+Buildings and Compounds,Lab Building
+Buildings and Compounds,Maintenance Building
+Buildings and Compounds,Monitoring Building
+Buildings and Compounds,Office Building
+Buildings and Compounds,Precipitation Compound
+Buildings and Compounds,Pump House
+Buildings and Compounds,Residential Building
+Buildings and Compounds,Shelter
+Buildings and Compounds,Storage Location
+Buildings and Compounds,Visitor Centre
+Buildings and Compounds,Watermill
+Channel,Complex Culvert
+Channel,Natural Spring
+Channel,Open Channel
+Channel,Simple Culvert
+Channel Crossings,Bridge
+Channel Crossings,Ford
+Channel Crossings,Utility Services Crossing
+Defence,Barrier Beach
+Defence,Beach
+Defence,Bridge Abutment
+Defence,Cliff
+Defence,Demountable Defence
+Defence,Dunes
+Defence,Embankment
+Defence,Engineered High Ground
+Defence,Flood Gate
+Defence,Natural High Ground
+Defence,Promenade
+Defence,Quay
+Defence,Spillway
+Defence,Wall
+Information Deliverables,File Naming Attributes
+Information Deliverables,Information Purposes
+Information Deliverables,Asset Management
+Information Deliverables,Commercial Financial Products
+Information Deliverables,Commissioning and Performance Evaluation (GSL)
+Information Deliverables,Communications and Engagement
+Information Deliverables,Design
+Information Deliverables,Economic Viability
+Information Deliverables,Environmental
+Information Deliverables,Health and Safety
+Information Deliverables,Modelling
+Information Deliverables,"Permissions, ownership and responsibility"
+Information Deliverables,Planning
+Information Deliverables,Procurement Products
+Information Deliverables,Project Management
+Information Deliverables,Site and Asset Conditions
+Information Deliverables,Site-based works
+Instruments,CCTV Camera System
+Instruments,Flood Warning System
+Instruments,Gauge Board
+Instruments,Instrumentation
+Instruments,Piezometer
+Instruments,Sample or Survey Point
+Instruments,Telecommunications
+Instruments,Telemetry System
+Land,CCTV Camera System
+Land,Flood Warning System
+Land,Gauge Board
+Land,Instrumentation
+Land,Piezometer
+Land,Sample or Survey Point
+Land,Telecommunications
+Land,Telemetry System
+MEICA,Automation Controls
+MEICA,Engine Assembly
+MEICA,Generator
+MEICA,High Voltage Electrical Equipment
+MEICA,Hydraulic System Assembly
+MEICA,Motor Control Centre Controls
+MEICA,Power Transmission
+MEICA,Pressure System Assembly
+MEICA,Pump Assembly
+MEICA,Sand Bagging Equipment
+MEICA,Solar Farm
+MEICA,Wind Power Generator
+Public Safety,PSRA Tree Site
+Public Safety,Public Safety Control System
+Structure,Animal Trap
+Structure,Borehole
+Structure,Cableway
+Structure,Central Pier
+Structure,Control Gate
+Structure,Debris Boom
+Structure,Debris Screen
+Structure,Draw Off Tower
+Structure,Fish Pass
+Structure,Fish Refuge
+Structure,Fish or Eel Barrier
+Structure,Fishing Cage
+Structure,Fishing Platform
+Structure,In Channel Stoplogs
+Structure,Inspection Chamber
+Structure,Jetty
+Structure,Mine Adit
+Structure,Mine Shaft
+Structure,Outfall
+Structure,Pier
+Structure,Ramp
+Structure,Sand Trap
+Structure,Security Screen
+Structure,Slipway
+Structure,Soil Moisture Tube
+Structure,Steps
+Structure,Stilling Basin
+Structure,Stilling Well
+Structure,Surface Water Tank
+Structure,Vortex Flow Control
+Structure,Water Baffles
+Structure,Water Distribution Pipeline
+Structure,Weir
+Structure,Well

@@ -1,0 +1,90 @@
+# ELEMENT WEIGHTING FILTER EXPRESSION
+
+"Concat_Subtpye_Element_Type" =concat(array_sort(array((to_string(aggregate(
+    layer:=	'pco_assets_bb175493_3d1b_4c12_a2ba_ac2650d980c5', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_subtype", -- set the field
+    filter:=is_selected(
+'pco_assets_bb175493_3d1b_4c12_a2ba_ac2650d980c5',
+        $currentfeature
+    )
+)[0])
+),
+(to_string(aggregate(
+    layer:=	'pco_assets_135fc9c4_fd69_4c7a_8c91_7378fd690254', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_subtype", -- set the field
+    filter:=is_selected(
+'pco_assets_135fc9c4_fd69_4c7a_8c91_7378fd690254',
+        $currentfeature
+    )
+)[0])
+)
+))[-1],'_' ,current_value('element_type'))
+
+
+# ELEMENT TYPE FILTER EXPRESSION
+"Asset_Sub_Type" =array_sort(array((to_string(aggregate(
+    layer:=	'pco_assets_9b338e74_ecac_451d_8389_7a12cfa1987e', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_subtype", -- set the field
+    filter:=is_selected(
+'pco_assets_9b338e74_ecac_451d_8389_7a12cfa1987e',
+        $currentfeature
+    )
+)[0])
+),
+(to_string(aggregate(
+    layer:=	'pco_assets_bd1d3f88_cabf_47b2_bd32_f03932915cf8', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="asset_subtype", -- set the field
+    filter:=is_selected(
+'pco_assets_bd1d3f88_cabf_47b2_bd32_f03932915cf8',
+        $currentfeature
+    )
+)[0])
+)
+))[-1]
+
+# ASSET TYPE FILTER EXPRESSION
+"Asset Type" = current_value('asset_type')
+
+
+# ELEMENT FILTER EXPRESSION - TO SELECT CURRENT SELECTED ASSETS ELEMENTS 
+"asset_id" =array_sort(array((to_string(aggregate(
+    layer:=	'pco_assets_9b338e74_ecac_451d_8389_7a12cfa1987e', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="swcm_pco_id", -- set the field
+    filter:=is_selected(
+'pco_assets_9b338e74_ecac_451d_8389_7a12cfa1987e',
+        $currentfeature
+    )
+)[0])
+),
+(to_string(aggregate(
+    layer:=	'pco_assets_bd1d3f88_cabf_47b2_bd32_f03932915cf8', -- set here your layer name/id
+    aggregate:='array_agg',
+    expression:="swcm_pco_id", -- set the field
+    filter:=is_selected(
+'pco_assets_bd1d3f88_cabf_47b2_bd32_f03932915cf8',
+        $currentfeature
+    )
+)[0])
+)
+))[-1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
